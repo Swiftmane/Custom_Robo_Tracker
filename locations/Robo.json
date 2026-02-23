@@ -1,0 +1,591 @@
+[
+    {
+        "name": "Robo",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Use Ray 01",
+                "access_rules": ["ray01"],
+                "sections": [
+                    {
+                        "name": "Ray 01",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 217,
+                        "y": 143
+                    }
+                ]
+            },
+            {
+                "name": "Use Splendor",
+                "access_rules": ["splendor"],
+                "sections": [
+                    {
+                        "name": "Splendor",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 217,
+                        "y": 174
+                    }
+                ]
+            },
+            {
+                "name": "Use Glory",
+                "access_rules": ["glory"],
+                 "sections": [
+                    {
+                        "name": "Glory",
+                        "item_count": 1
+                    }
+                ],               
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 217,
+                        "y": 204
+                    }
+                ]
+            },
+            {
+                "name": "Use Milky Way",
+                "access_rules": ["milkyway"],
+                "sections": [
+                    {
+                        "name": "Milky Way",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 431,
+                        "y": 143
+                    }
+                ]
+            },
+            {
+                "name": "Use Earth",
+                "access_rules": ["earth"],
+                "sections": [
+                    {
+                        "name": "Earth",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 431,
+                        "y": 174
+                    }
+                ]
+            },
+            {
+                "name": "Use Sol",
+                "access_rules": ["sol"],
+                "sections": [
+                    {
+                        "name": "Sol",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 431,
+                        "y": 204
+                    }
+                ]
+            },
+            {
+                "name": "Use Metal Ape",
+                "access_rules": ["metalape"],
+                "sections": [
+                    {
+                        "name": "Metal Ape",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 644,
+                        "y": 143
+                    }
+                ]
+            },
+            {
+                "name": "Use Metal Bear",
+                "access_rules": ["metalbear"],
+                "sections": [
+                    {
+                        "name": "Metal Bear",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 644,
+                        "y": 174
+                    }
+                ]
+            },
+            {
+                "name": "Use Metal Ox",
+                "access_rules": ["metalox"],
+                "sections": [
+                    {
+                        "name": "Metal Ox",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 644,
+                        "y": 204
+                    }
+                ]
+            },
+            {
+                "name": "Use Swift",
+                "access_rules": ["swift"],
+                "sections": [
+                    {
+                        "name": "Swift",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 860,
+                        "y": 143
+                    }
+                ]
+            },
+            {
+                "name": "Use Shrike",
+                "access_rules": ["shrike"],
+                "sections": [
+                    {
+                        "name": "Shrike",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 860,
+                        "y": 174
+                    }
+                ]
+            },
+            {
+                "name": "Use Peregrine",
+                "access_rules": ["peregrine"],
+                "sections": [
+                    {
+                        "name": "Peregrine",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 860,
+                        "y": 204
+                    }
+                ]
+            },
+            {
+                "name": "Use Javelin",
+                "access_rules": ["javelin"],
+                "sections": [
+                    {
+                        "name": "Javelin",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 1075,
+                        "y": 143
+                    }
+                ]
+            },
+            {
+                "name": "Use Glaive",
+                "access_rules": ["glaive"],
+                "sections": [
+                    {
+                        "name": "Glaive",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 1075,
+                        "y": 174
+                    }
+                ]
+            },
+            {
+                "name": "Use Halberd",
+                "access_rules": ["halberd"],
+                "sections": [
+                    {
+                        "name": "Halberd",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 1075,
+                        "y": 204
+                    }
+                ]
+            },
+            {
+                "name": "Use Criminal",
+                "access_rules": ["criminal"],
+                "sections": [
+                    {
+                        "name": "Criminal",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 217,
+                        "y": 298
+                    }
+                ]
+            },
+            {
+                "name": "Use Buggy",
+                "access_rules": ["buggy"],
+                "sections": [
+                    {
+                        "name": "Buggy",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 217,
+                        "y": 332
+                    }
+                ]
+            },
+            {
+                "name": "Use Juggler",
+                "access_rules": ["juggler"],
+                "sections": [
+                    {
+                        "name": "Juggler",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 217,
+                        "y": 361
+                    }
+                ]
+            },
+            {
+                "name": "Use Defender",
+                "access_rules": ["defender"],
+                "sections": [
+                    {
+                        "name": "Defender",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 431,
+                        "y": 298
+                    }
+                ]
+            },
+            {
+                "name": "Use Seeker",
+                "access_rules": ["seeker"],
+                "sections": [
+                    {
+                        "name": "Seeker",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 431,
+                        "y": 332
+                    }
+                ]
+            },
+            {
+                "name": "Use Breaker",
+                "access_rules": ["breaker"],
+                "sections": [
+                    {
+                        "name": "Breaker",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 431,
+                        "y": 361
+                    }
+                ]
+            },
+            {
+                "name": "Use Seal Head",
+                "access_rules": ["sealhead"],
+                "sections": [
+                    {
+                        "name": "Seal Head",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 644,
+                        "y": 298
+                    }
+                ]
+            },
+            {
+                "name": "Use Dour Head",
+                "access_rules": ["dourhead"],
+                "sections": [
+                    {
+                        "name": "Dour Head",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 644,
+                        "y": 332
+                    }
+                ]
+            },
+            {
+                "name": "Use Tank Head",
+                "access_rules": ["tankhead"],
+                "sections": [
+                    {
+                        "name": "Tank Head",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 644,
+                        "y": 361
+                    }
+                ]
+            },
+            {
+                "name": "Use Ray Legend",
+                "access_rules": ["raylegend"],
+                "sections": [
+                    {
+                        "name": "Ray Legend",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 860,
+                        "y": 392
+                    }
+                ]
+            },
+            {
+                "name": "Use Oil Can",
+                "access_rules": ["oilcan"],
+                "sections": [
+                    {
+                        "name": "Oil Can",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 860,
+                        "y": 452
+                    }
+                ]
+            },
+            {
+                "name": "Use Ray Warrior",
+                "access_rules": ["raywarrior"],
+                "sections": [
+                    {
+                        "name": "Ray Warrior",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 860,
+                        "y": 422
+                    }
+                ]
+            },
+            {
+                "name": "Use Rakansen",
+                "access_rules": ["rakansen"],
+                "sections": [
+                    {
+                        "name": "Rakansen",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 860,
+                        "y": 298
+                    }
+                ]
+            },
+            {
+                "name": "Use Ruhiel",
+                "access_rules": ["ruhiel"],
+                "sections": [
+                    {
+                        "name": "Ruhiel",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 860,
+                        "y": 332
+                    }
+                ]
+            },
+            {
+                "name": "Use Athena",
+                "access_rules": ["athena"],
+                "sections": [
+                    {
+                        "name": "Athena",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 860,
+                        "y": 361
+                    }
+                ]
+            },
+            {
+                "name": "Use Rahu I",
+                "access_rules": ["rahuevolution:1"],
+                "sections": [
+                    {
+                        "name": "Rahu I",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 860,
+                        "y": 481
+                    }
+                ]
+            },
+            {
+                "name": "Use Rahu II",
+                "access_rules": ["rahuevolution:4"],
+                "sections": [
+                    {
+                        "name": "Rahu II",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 860,
+                        "y": 510
+                    }
+                ]
+            },
+            {
+                "name": "Use Rahu III",
+                "access_rules": ["rahuevolution:11"],
+                "sections": [
+                    {
+                        "name": "Rahu III",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 860,
+                        "y": 538
+                    }
+                ]
+            },
+            {
+                "name": "Use Chickenheart",
+                "access_rules": ["chickenheart"],
+                "sections": [
+                    {
+                        "name": "Chickenheart",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Robos",
+                        "x": 1075,
+                        "y": 298
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Chapter 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "chapter1memories"
+        ],
+        "sections": [
+            {
+                "name": "VS Harry",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "VS Gym Bot #1",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "VS Gym Bot #2",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "VS Gym Bot #3",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "VS Gym Bot #4",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "VS Thomas or Anthony",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Chapter 2",
+                "x": 433,
+                "y": 617,
+                "size": 6
+            }
+        ]
+    }
+]

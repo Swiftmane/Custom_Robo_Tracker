@@ -1,0 +1,43 @@
+{
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 144,
+                        "rows": [
+                            [
+                                "chapter1memories",
+                                "chapter2memories",
+                                "chapter3memories",
+                                "chapter4memories",
+                                "chapter5memories",
+                                "chapter6memories"
+                            ],
+                            [
+                                "chapter7memories",
+                                "chapter8memories",
+                                "chapter9memories",
+                                "chapter10memories",
+                                "chapter11memories",
+                                "chapter12memories"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,761 @@
+[
+    {
+        "name": "Pod",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Use Standard Pod",
+                "access_rules": ["standardpod"],
+                "sections": [
+                    {
+                        "name": "Standard Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 170,
+                        "y": 27
+                    }
+                ]
+            },
+            {
+                "name": "Use Seeker F Pod",
+                "access_rules": ["seekerfpod"],
+                "sections": [
+                    {
+                        "name": "Seeker F Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 170,
+                        "y": 56
+                    }
+                ]
+            },
+            {
+                "name": "Use Seeker G Pod",
+                "access_rules": ["seekergpod"],
+                "sections": [
+                    {
+                        "name": "Seeker G Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 170,
+                        "y": 85
+                    }
+                ]
+            },
+            {
+                "name": "Use Speed D Pod",
+                "access_rules": ["speeddpod"],
+                "sections": [
+                    {
+                        "name": "Speed D Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 170,
+                        "y": 113
+                    }
+                ]
+            },
+            {
+                "name": "Use Speed P Pod",
+                "access_rules": ["speedppod"],
+                "sections": [
+                    {
+                        "name": "Speed P Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 383,
+                        "y": 27
+                    }
+                ]
+            },
+            {
+                "name": "Use Cockroach G Pod",
+                "access_rules": ["cockroachgpod"],
+                "sections": [
+                    {
+                        "name": "Cockroach G Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 383,
+                        "y": 57
+                    }
+                ]
+            },
+            {
+                "name": "Use Cockroach H Pod",
+                "access_rules": ["cockroachhpod"],
+                "sections": [
+                    {
+                        "name": "Cockroach H Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 383,
+                        "y": 85
+                    }
+                ]
+            },
+            {
+                "name": "Use Dolphin Pod",
+                "access_rules": ["dolphinpod"],
+                "sections": [
+                    {
+                        "name": "Dolphin Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 383,
+                        "y": 113
+                    }
+                ]
+            },
+            {
+                "name": "Use Dolphin G Pod",
+                "access_rules": ["dolphingpod"],
+                "sections": [
+                    {
+                        "name": "Dolphin G Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 597,
+                        "y": 27
+                    }
+                ]
+            },
+            {
+                "name": "Use Spider Pod",
+                "access_rules": ["spiderpod"],
+                "sections": [
+                    {
+                        "name": "Spider Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 597,
+                        "y": 57
+                    }
+                ]
+            },
+            {
+                "name": "Use Spider G Pod",
+                "access_rules": ["spidergpod"],
+                "sections": [
+                    {
+                        "name": "Spider G Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 597,
+                        "y": 85
+                    }
+                ]
+            },
+            {
+                "name": "Use Sky Freeze Pod",
+                "access_rules": ["skyfreezepod"],
+                "sections": [
+                    {
+                        "name": "Sky Freeze Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 597,
+                        "y": 113
+                    }
+                ]
+            },
+            {
+                "name": "Use Ground Freeze Pod",
+                "access_rules": ["groundfreezepod"],
+                "sections": [
+                    {
+                        "name": "Ground Freeze Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 814,
+                        "y": 27
+                    }
+                ]
+            },
+            {
+                "name": "Use Feint F Pod",
+                "access_rules": ["feintfpod"],
+                "sections": [
+                    {
+                        "name": "Feint F Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 814,
+                        "y": 57
+                    }
+                ]
+            },
+            {
+                "name": "Use Feint G Pod",
+                "access_rules": ["feintgpod"],
+                "sections": [
+                    {
+                        "name": "Feint G Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 814,
+                        "y": 85
+                    }
+                ]
+            },
+            {
+                "name": "Use Float F Pod",
+                "access_rules": ["floatfpod"],
+                "sections": [
+                    {
+                        "name": "Float F Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 814,
+                        "y": 113
+                    }
+                ]
+            },
+            {
+                "name": "Use Jumping B Pod",
+                "access_rules": ["jumpingbpod"],
+                "sections": [
+                    {
+                        "name": "Jumping B Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 170,
+                        "y": 175
+                    }
+                ]
+            },
+            {
+                "name": "Use Jumping G Pod",
+                "access_rules": ["jumpinggpod"],
+                "sections": [
+                    {
+                        "name": "Jumping G Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 170,
+                        "y": 205
+                    }
+                ]
+            },
+            {
+                "name": "Use Diving Pod",
+                "access_rules": ["divingpod"],
+                "sections": [
+                    {
+                        "name": "Diving Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 170,
+                        "y": 235
+                    }
+                ]
+            },
+            {
+                "name": "Use Wave Pod",
+                "access_rules": ["wavepod"],
+                "sections": [
+                    {
+                        "name": "Wave Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 170,
+                        "y": 264
+                    }
+                ]
+            },
+            {
+                "name": "Use Satellite Pod",
+                "access_rules": ["satellitepod"],
+                "sections": [
+                    {
+                        "name": "Satellite Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 383,
+                        "y": 175
+                    }
+                ]
+            },
+            {
+                "name": "Use Satellite H Pod",
+                "access_rules": ["satellitehpod"],
+                "sections": [
+                    {
+                        "name": "Satellite H Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 383,
+                        "y": 205
+                    }
+                ]
+            },
+            {
+                "name": "Use Beast F Pod",
+                "access_rules": ["beastfpod"],
+                "sections": [
+                    {
+                        "name": "Beast F Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 383,
+                        "y": 235
+                    }
+                ]
+            },
+            {
+                "name": "Use Trio H Pod",
+                "access_rules": ["triohpod"],
+                "sections": [
+                    {
+                        "name": "Trio H Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 383,
+                        "y": 264
+                    }
+                ]
+            },
+            {
+                "name": "Use Wall Pod",
+                "access_rules": ["wallpod"],
+                "sections": [
+                    {
+                        "name": "Wall Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 597,
+                        "y": 175
+                    }
+                ]
+            },
+            {
+                "name": "Use Reflection Pod",
+                "access_rules": ["reflectionpod"],
+                "sections": [
+                    {
+                        "name": "Reflection Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 597,
+                        "y": 205
+                    }
+                ]
+            },
+            {
+                "name": "Use Caboose C Pod",
+                "access_rules": ["caboosecpod"],
+                "sections": [
+                    {
+                        "name": "Caboose C Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 597,
+                        "y": 235
+                    }
+                ]
+            },
+            {
+                "name": "Use Caboose T Pod",
+                "access_rules": ["caboosetpod"],
+                "sections": [
+                    {
+                        "name": "Caboose T Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 597,
+                        "y": 264
+                    }
+                ]
+            },
+            {
+                "name": "Use Twin Flank F Pod",
+                "access_rules": ["twinflankfpod"],
+                "sections": [
+                    {
+                        "name": "Twin Flank F Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 814,
+                        "y": 175
+                    }
+                ]
+            },
+            {
+                "name": "Use Twin Flank G Pod",
+                "access_rules": ["twinflankgpod"],
+                "sections": [
+                    {
+                        "name": "Twin Flank G Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 814,
+                        "y": 205
+                    }
+                ]
+            },
+            {
+                "name": "Use Umbrella Pod",
+                "access_rules": ["umbrellapod"],
+                "sections": [
+                    {
+                        "name": "Umbrella Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 814,
+                        "y": 235
+                    }
+                ]
+            },
+            {
+                "name": "Use Throwing D Pod",
+                "access_rules": ["throwingdpod"],
+                "sections": [
+                    {
+                        "name": "Throwing D Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 814,
+                        "y": 264
+                    }
+                ]
+            },
+            {
+                "name": "Use Throwing P Pod",
+                "access_rules": ["throwingppod"],
+                "sections": [
+                    {
+                        "name": "Throwing P Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 170,
+                        "y": 325
+                    }
+                ]
+            },
+            {
+                "name": "Use Double Wave Pod",
+                "access_rules": ["doublewavepod"],
+                "sections": [
+                    {
+                        "name": "Double Wave Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 170,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Use Titan Pod",
+                "access_rules": ["titanpod"],
+                "sections": [
+                    {
+                        "name": "Titan Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 170,
+                        "y": 385
+                    }
+                ]
+            },
+            {
+                "name": "Use Can Pod",
+                "access_rules": ["canpod"],
+                "sections": [
+                    {
+                        "name": "Can Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 170,
+                        "y": 413
+                    }
+                ]
+            },
+            {
+                "name": "Use Standard F Pod",
+                "access_rules": ["standardfpod"],
+                "sections": [
+                    {
+                        "name": "Standard F Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 383,
+                        "y": 325
+                    }
+                ]
+            },
+            {
+                "name": "Use Caboose X Pod",
+                "access_rules": ["caboosexpod"],
+                "sections": [
+                    {
+                        "name": "Caboose X Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 383,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Use Cheetah Pod",
+                "access_rules": ["cheetahpod"],
+                "sections": [
+                    {
+                        "name": "Cheetah Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 383,
+                        "y": 385
+                    }
+                ]
+            },
+            {
+                "name": "Use Wolf Spider Pod",
+                "access_rules": ["wolfspiderpod"],
+                "sections": [
+                    {
+                        "name": "Wolf Spider Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 383,
+                        "y": 413
+                    }
+                ]
+            },
+            {
+                "name": "Use Orca Pod",
+                "access_rules": ["orcapod"],
+                "sections": [
+                    {
+                        "name": "Orca Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 597,
+                        "y": 325
+                    }
+                ]
+            },
+            {
+                "name": "Use Penumbra I Pod",
+                "access_rules": ["rahuevolution:2"],
+                "sections": [
+                    {
+                        "name": "Penumbra I Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 597,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Use Penumbra II Pod",
+                "access_rules": ["rahuevolution:5"],
+                "sections": [
+                    {
+                        "name": "Penumbra II Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 597,
+                        "y": 385
+                    }
+                ]
+            },
+            {
+                "name": "Use Penumbra III Pod",
+                "access_rules": ["rahuevolution:9"],
+                "sections": [
+                    {
+                        "name": "Penumbra III Pod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Pods",
+                        "x": 597,
+                        "y": 413
+                    }
+                ]
+            }
+        ]
+    }
+]

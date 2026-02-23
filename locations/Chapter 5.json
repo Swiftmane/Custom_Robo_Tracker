@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Chapter 5",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "@Chapter 4,chapter4memories"
+        ],
+        "sections": [
+            {
+                "name": "VS Evil & Bubble",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "VS Paulie",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "VS Walt",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "VS Harry",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "VS Shiner",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Chapter 5",
+                "x": 2048,
+                "y": 1512,
+                "size": 6
+            }
+        ]
+    }
+]

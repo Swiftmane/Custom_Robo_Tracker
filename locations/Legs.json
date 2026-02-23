@@ -1,0 +1,285 @@
+[
+    {
+        "name": "Legs",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Use Standard Legs",
+                "access_rules": ["standardlegs"],
+                "sections": [
+                    {
+                        "name": "Standard Legs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Legs",
+                        "x": 167,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Use High Jump Legs",
+                "access_rules": ["highjumplegs"],
+                "sections": [
+                    {
+                        "name": "High Jump Legs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Legs",
+                        "x": 167,
+                        "y": 55
+                    }
+                ]
+            },
+            {
+                "name": "Use Ground Legs",
+                "access_rules": ["groundlegs"],
+                "sections": [
+                    {
+                        "name": "Ground Legs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Legs",
+                        "x": 167,
+                        "y": 85
+                    }
+                ]
+            },
+            {
+                "name": "Use Formula Legs",
+                "access_rules": ["formulalegs"],
+                "sections": [
+                    {
+                        "name": "Formula Legs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Legs",
+                        "x": 167,
+                        "y": 113
+                    }
+                ]
+            },
+            {
+                "name": "Use Stabilizer Legs",
+                "access_rules": ["stabilizerlegs"],
+                "sections": [
+                    {
+                        "name": "Stabilizer Legs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Legs",
+                        "x": 381,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Use Short Thrust Legs",
+                "access_rules": ["shortthrustlegs"],
+                "sections": [
+                    {
+                        "name": "Short Thrust Legs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Legs",
+                        "x": 381,
+                        "y": 55
+                    }
+                ]
+            },
+            {
+                "name": "Use Long Thrust Legs",
+                "access_rules": ["longthrustlegs"],
+                "sections": [
+                    {
+                        "name": "Long Thrust Legs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Legs",
+                        "x": 381,
+                        "y": 85
+                    }
+                ]
+            },
+            {
+                "name": "Use Quick Jump Legs",
+                "access_rules": ["quickjumplegs"],
+                "sections": [
+                    {
+                        "name": "Quick Jump Legs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Legs",
+                        "x": 381,
+                        "y": 113
+                    }
+                ]
+            },
+            {
+                "name": "Use Feather Legs",
+                "access_rules": ["featherlegs"],
+                "sections": [
+                    {
+                        "name": "Feather Legs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Legs",
+                        "x": 167,
+                        "y": 174
+                    }
+                ]
+            },
+            {
+                "name": "Use Wide Jump Legs",
+                "access_rules": ["widejumplegs"],
+                "sections": [
+                    {
+                        "name": "Wide Jump Legs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Legs",
+                        "x": 167,
+                        "y": 204
+                    }
+                ]
+            },
+            {
+                "name": "Use Can Legs",
+                "access_rules": ["canlegs"],
+                "sections": [
+                    {
+                        "name": "Can Legs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Legs",
+                        "x": 167,
+                        "y": 234
+                    }
+                ]
+            },
+            {
+                "name": "Use Booster Legs",
+                "access_rules": ["boosterlegs"],
+                "sections": [
+                    {
+                        "name": "Booster Legs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Legs",
+                        "x": 167,
+                        "y": 262
+                    }
+                ]
+            },
+            {
+                "name": "Use Swallow Legs",
+                "access_rules": ["swallowlegs"],
+                "sections": [
+                    {
+                        "name": "Swallow Legs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Legs",
+                        "x": 381,
+                        "y": 174
+                    }
+                ]
+            },
+            {
+                "name": "Use Raven Legs",
+                "access_rules": ["ravenlegs"],
+                "sections": [
+                    {
+                        "name": "Raven Legs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Legs",
+                        "x": 381,
+                        "y": 204
+                    }
+                ]
+            },
+            {
+                "name": "Use Eclipse Legs",
+                "access_rules": ["eclipselegs"],
+                "sections": [
+                    {
+                        "name": "Eclipse Legs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Legs",
+                        "x": 381,
+                        "y": 234
+                    }
+                ]
+            },
+            {
+                "name": "Use Ultimate Legs",
+                "access_rules": ["rahuevolution:8"],
+                "sections": [
+                    {
+                        "name": "Ultimate Legs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Legs",
+                        "x": 381,
+                        "y": 262
+                    }
+                ]
+            }
+        ]
+    }
+]

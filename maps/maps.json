@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Summary",
+        "location_size": 15,
+        "location_border_thickness": 1,
+        "img": "images/maps/Summary.png"
+    },
+    {
+        "name": "Robos",
+        "location_size": 15,
+        "location_border_thickness": 1,
+        "img": "images/maps/Robos.png"
+    },
+    {
+        "name": "Guns",
+        "location_size": 15,
+        "location_border_thickness": 1,
+        "img": "images/maps/Guns.png"
+    },
+    {
+        "name": "Pods",
+        "location_size": 15,
+        "location_border_thickness": 1,
+        "img": "images/maps/Pods.png"
+    },
+    {
+        "name": "Bombs",
+        "location_size": 15,
+        "location_border_thickness": 1,
+        "img": "images/maps/Bombs.png"
+    },
+    {
+        "name": "Legs",
+        "location_size": 15,
+        "location_border_thickness": 1,
+        "img": "images/maps/Legs.png"
+    }
+]

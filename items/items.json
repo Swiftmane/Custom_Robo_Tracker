@@ -1,0 +1,1535 @@
+[
+    {
+        "name": "crescentkbomb",
+        "type": "toggle",
+        "img": "images/items/crescentkbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crescentkbomb"
+    },
+    {
+        "name": "wolfspiderpod",
+        "type": "toggle",
+        "img": "images/items/wolfspiderpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wolfspiderpod"
+    },
+    {
+        "name": "eaglegun",
+        "type": "toggle",
+        "img": "images/items/eaglegun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eaglegun"
+    },
+    {
+        "name": "gravitygun",
+        "type": "toggle",
+        "img": "images/items/gravitygun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gravitygun"
+    },
+    {
+        "name": "phoenixgun",
+        "type": "toggle",
+        "img": "images/items/phoenixgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "phoenixgun"
+    },
+    {
+        "name": "trapgun",
+        "type": "toggle",
+        "img": "images/items/trapgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "trapgun"
+    },
+    {
+        "name": "crescentpbomb",
+        "type": "toggle",
+        "img": "images/items/crescentpbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crescentpbomb"
+    },
+    {
+        "name": "longthrustlegs",
+        "type": "toggle",
+        "img": "images/items/longthrustlegs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "longthrustlegs"
+    },
+    {
+        "name": "tankhead",
+        "type": "toggle",
+        "img": "images/items/tankhead.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tankhead"
+    },
+    {
+        "name": "dragongun",
+        "type": "toggle",
+        "img": "images/items/dragongun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dragongun"
+    },
+    {
+        "name": "javelin",
+        "type": "toggle",
+        "img": "images/items/javelin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "javelin"
+    },
+    {
+        "name": "leftwavebomb",
+        "type": "toggle",
+        "img": "images/items/leftwavebomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "leftwavebomb"
+    },
+    {
+        "name": "earth",
+        "type": "toggle",
+        "img": "images/items/earth.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "earth"
+    },
+    {
+        "name": "vlasergun",
+        "type": "toggle",
+        "img": "images/items/vlasergun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vlasergun"
+    },
+    {
+        "name": "buggy",
+        "type": "toggle",
+        "img": "images/items/buggy.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "buggy"
+    },
+    {
+        "name": "jumpinggpod",
+        "type": "toggle",
+        "img": "images/items/jumpinggpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jumpinggpod"
+    },
+    {
+        "name": "seekergpod",
+        "type": "toggle",
+        "img": "images/items/seekergpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "seekergpod"
+    },
+    {
+        "name": "bladegun",
+        "type": "toggle",
+        "img": "images/items/bladegun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bladegun"
+    },
+    {
+        "name": "standardfpod",
+        "type": "toggle",
+        "img": "images/items/standardfpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "standardfpod"
+    },
+    {
+        "name": "verticalgun",
+        "type": "toggle",
+        "img": "images/items/verticalgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "verticalgun"
+    },
+    {
+        "name": "left5-waygun",
+        "type": "toggle",
+        "img": "images/items/left5-waygun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "left5-waygun"
+    },
+    {
+        "name": "right5-waygun",
+        "type": "toggle",
+        "img": "images/items/right5-waygun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "right5-waygun"
+    },
+    {
+        "name": "glory",
+        "type": "toggle",
+        "img": "images/items/glory.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glory"
+    },
+    {
+        "name": "titanbomb",
+        "type": "toggle",
+        "img": "images/items/titanbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "titanbomb"
+    },
+    {
+        "name": "rahuevolution",
+        "type": "toggle",
+        "img": "images/items/rahuevolution.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rahuevolution"
+    },
+    {
+        "name": "seekerfpod",
+        "type": "toggle",
+        "img": "images/items/seekerfpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "seekerfpod"
+    },
+    {
+        "name": "flamegun",
+        "type": "toggle",
+        "img": "images/items/flamegun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flamegun"
+    },
+    {
+        "name": "drillgun",
+        "type": "toggle",
+        "img": "images/items/drillgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "drillgun"
+    },
+    {
+        "name": "stabilizerlegs",
+        "type": "toggle",
+        "img": "images/items/stabilizerlegs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stabilizerlegs"
+    },
+    {
+        "name": "twinfanggun",
+        "type": "toggle",
+        "img": "images/items/twinfanggun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "twinfanggun"
+    },
+    {
+        "name": "reflectionpod",
+        "type": "toggle",
+        "img": "images/items/reflectionpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "reflectionpod"
+    },
+    {
+        "name": "satellitehpod",
+        "type": "toggle",
+        "img": "images/items/satellitehpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "satellitehpod"
+    },
+    {
+        "name": "canpod",
+        "type": "toggle",
+        "img": "images/items/canpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "canpod"
+    },
+    {
+        "name": "homingstargun",
+        "type": "toggle",
+        "img": "images/items/homingstargun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "homingstargun"
+    },
+    {
+        "name": "afterburnergun",
+        "type": "toggle",
+        "img": "images/items/afterburnergun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "afterburnergun"
+    },
+    {
+        "name": "standardkbomb",
+        "type": "toggle",
+        "img": "images/items/standardkbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "standardkbomb"
+    },
+    {
+        "name": "skyfreezepod",
+        "type": "toggle",
+        "img": "images/items/skyfreezepod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skyfreezepod"
+    },
+    {
+        "name": "chapter2memories",
+        "type": "toggle",
+        "img": "images/items/chapter2memories.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chapter2memories"
+    },
+    {
+        "name": "waxingarcbomb",
+        "type": "toggle",
+        "img": "images/items/waxingarcbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "waxingarcbomb"
+    },
+    {
+        "name": "wallpod",
+        "type": "toggle",
+        "img": "images/items/wallpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wallpod"
+    },
+    {
+        "name": "glaive",
+        "type": "toggle",
+        "img": "images/items/glaive.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glaive"
+    },
+    {
+        "name": "leftarcgun",
+        "type": "toggle",
+        "img": "images/items/leftarcgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "leftarcgun"
+    },
+    {
+        "name": "canlegs",
+        "type": "toggle",
+        "img": "images/items/canlegs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "canlegs"
+    },
+    {
+        "name": "knucklegun",
+        "type": "toggle",
+        "img": "images/items/knucklegun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "knucklegun"
+    },
+    {
+        "name": "tomahawkbbomb",
+        "type": "toggle",
+        "img": "images/items/tomahawkbbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tomahawkbbomb"
+    },
+    {
+        "name": "chapter1memories",
+        "type": "toggle",
+        "img": "images/items/chapter1memories.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chapter1memories"
+    },
+    {
+        "name": "swallowlegs",
+        "type": "toggle",
+        "img": "images/items/swallowlegs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "swallowlegs"
+    },
+    {
+        "name": "speeddpod",
+        "type": "toggle",
+        "img": "images/items/speeddpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "speeddpod"
+    },
+    {
+        "name": "chickenheart",
+        "type": "toggle",
+        "img": "images/items/chickenheart.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chickenheart"
+    },
+    {
+        "name": "metalape",
+        "type": "toggle",
+        "img": "images/items/metalape.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "metalape"
+    },
+    {
+        "name": "chapter9memories",
+        "type": "toggle",
+        "img": "images/items/chapter9memories.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chapter9memories"
+    },
+    {
+        "name": "gatlinggun",
+        "type": "toggle",
+        "img": "images/items/gatlinggun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gatlinggun"
+    },
+    {
+        "name": "criminal",
+        "type": "toggle",
+        "img": "images/items/criminal.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "criminal"
+    },
+    {
+        "name": "smashbomb",
+        "type": "toggle",
+        "img": "images/items/smashbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smashbomb"
+    },
+    {
+        "name": "glidergun",
+        "type": "toggle",
+        "img": "images/items/glidergun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glidergun"
+    },
+    {
+        "name": "xlasergun",
+        "type": "toggle",
+        "img": "images/items/xlasergun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "xlasergun"
+    },
+    {
+        "name": "ruhiel",
+        "type": "toggle",
+        "img": "images/items/ruhiel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ruhiel"
+    },
+    {
+        "name": "3-waygun",
+        "type": "toggle",
+        "img": "images/items/3-waygun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "3-waygun"
+    },
+    {
+        "name": "splendor",
+        "type": "toggle",
+        "img": "images/items/splendor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "splendor"
+    },
+    {
+        "name": "metalox",
+        "type": "toggle",
+        "img": "images/items/metalox.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "metalox"
+    },
+    {
+        "name": "submarinedbomb",
+        "type": "toggle",
+        "img": "images/items/submarinedbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "submarinedbomb"
+    },
+    {
+        "name": "throwingdpod",
+        "type": "toggle",
+        "img": "images/items/throwingdpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "throwingdpod"
+    },
+    {
+        "name": "robocube",
+        "type": "consumable",
+        "img": "images/items/robocube.png",
+        "min_quantity": 0,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "robocube"
+    },
+    {
+        "name": "eclipselegs",
+        "type": "toggle",
+        "img": "images/items/eclipselegs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eclipselegs"
+    },
+    {
+        "name": "wavebomb",
+        "type": "toggle",
+        "img": "images/items/wavebomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wavebomb"
+    },
+    {
+        "name": "freezebomb",
+        "type": "toggle",
+        "img": "images/items/freezebomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "freezebomb"
+    },
+    {
+        "name": "crescentcbomb",
+        "type": "toggle",
+        "img": "images/items/crescentcbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crescentcbomb"
+    },
+    {
+        "name": "geotrapbomb",
+        "type": "toggle",
+        "img": "images/items/geotrapbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "geotrapbomb"
+    },
+    {
+        "name": "groundlegs",
+        "type": "toggle",
+        "img": "images/items/groundlegs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "groundlegs"
+    },
+    {
+        "name": "raylegend",
+        "type": "toggle",
+        "img": "images/items/raylegend.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "raylegend"
+    },
+    {
+        "name": "crystalstrikegun",
+        "type": "toggle",
+        "img": "images/items/crystalstrikegun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crystalstrikegun"
+    },
+    {
+        "name": "dolphingpod",
+        "type": "toggle",
+        "img": "images/items/dolphingpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dolphingpod"
+    },
+    {
+        "name": "milkyway",
+        "type": "toggle",
+        "img": "images/items/milkyway.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "milkyway"
+    },
+    {
+        "name": "wavelasergun",
+        "type": "toggle",
+        "img": "images/items/wavelasergun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wavelasergun"
+    },
+    {
+        "name": "wyvernbomb",
+        "type": "toggle",
+        "img": "images/items/wyvernbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wyvernbomb"
+    },
+    {
+        "name": "standardxbomb",
+        "type": "toggle",
+        "img": "images/items/standardxbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "standardxbomb"
+    },
+    {
+        "name": "cockroachgpod",
+        "type": "toggle",
+        "img": "images/items/cockroachgpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cockroachgpod"
+    },
+    {
+        "name": "hornetgun",
+        "type": "toggle",
+        "img": "images/items/hornetgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hornetgun"
+    },
+    {
+        "name": "sealhead",
+        "type": "toggle",
+        "img": "images/items/sealhead.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sealhead"
+    },
+    {
+        "name": "chapter4memories",
+        "type": "toggle",
+        "img": "images/items/chapter4memories.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chapter4memories"
+    },
+    {
+        "name": "feintfpod",
+        "type": "toggle",
+        "img": "images/items/feintfpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "feintfpod"
+    },
+    {
+        "name": "wavepod",
+        "type": "toggle",
+        "img": "images/items/wavepod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wavepod"
+    },
+    {
+        "name": "doublewavepod",
+        "type": "toggle",
+        "img": "images/items/doublewavepod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "doublewavepod"
+    },
+    {
+        "name": "leftpulsegun",
+        "type": "toggle",
+        "img": "images/items/leftpulsegun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "leftpulsegun"
+    },
+    {
+        "name": "satellitepod",
+        "type": "toggle",
+        "img": "images/items/satellitepod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "satellitepod"
+    },
+    {
+        "name": "halogun",
+        "type": "toggle",
+        "img": "images/items/halogun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "halogun"
+    },
+    {
+        "name": "treblebomb",
+        "type": "toggle",
+        "img": "images/items/treblebomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "treblebomb"
+    },
+    {
+        "name": "canbomb",
+        "type": "toggle",
+        "img": "images/items/canbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "canbomb"
+    },
+    {
+        "name": "tomahawkgbomb",
+        "type": "toggle",
+        "img": "images/items/tomahawkgbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tomahawkgbomb"
+    },
+    {
+        "name": "ravenlegs",
+        "type": "toggle",
+        "img": "images/items/ravenlegs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ravenlegs"
+    },
+    {
+        "name": "featherlegs",
+        "type": "toggle",
+        "img": "images/items/featherlegs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "featherlegs"
+    },
+    {
+        "name": "halberd",
+        "type": "toggle",
+        "img": "images/items/halberd.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "halberd"
+    },
+    {
+        "name": "basicgun",
+        "type": "toggle",
+        "img": "images/items/basicgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "basicgun"
+    },
+    {
+        "name": "doubleminebomb",
+        "type": "toggle",
+        "img": "images/items/doubleminebomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "doubleminebomb"
+    },
+    {
+        "name": "chapter5memories",
+        "type": "toggle",
+        "img": "images/items/chapter5memories.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chapter5memories"
+    },
+    {
+        "name": "acrobatbomb",
+        "type": "toggle",
+        "img": "images/items/acrobatbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "acrobatbomb"
+    },
+    {
+        "name": "titangun",
+        "type": "toggle",
+        "img": "images/items/titangun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "titangun"
+    },
+    {
+        "name": "oilcan",
+        "type": "toggle",
+        "img": "images/items/oilcan.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "oilcan"
+    },
+    {
+        "name": "widejumplegs",
+        "type": "toggle",
+        "img": "images/items/widejumplegs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "widejumplegs"
+    },
+    {
+        "name": "chapter8memories",
+        "type": "toggle",
+        "img": "images/items/chapter8memories.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chapter8memories"
+    },
+    {
+        "name": "rightpulsegun",
+        "type": "toggle",
+        "img": "images/items/rightpulsegun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rightpulsegun"
+    },
+    {
+        "name": "titanpod",
+        "type": "toggle",
+        "img": "images/items/titanpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "titanpod"
+    },
+    {
+        "name": "standardlegs",
+        "type": "toggle",
+        "img": "images/items/standardlegs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "standardlegs"
+    },
+    {
+        "name": "clawgun",
+        "type": "toggle",
+        "img": "images/items/clawgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "clawgun"
+    },
+    {
+        "name": "defender",
+        "type": "toggle",
+        "img": "images/items/defender.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "defender"
+    },
+    {
+        "name": "standardbomb",
+        "type": "toggle",
+        "img": "images/items/standardbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "standardbomb"
+    },
+    {
+        "name": "sol",
+        "type": "toggle",
+        "img": "images/items/sol.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sol"
+    },
+    {
+        "name": "wallbomb",
+        "type": "toggle",
+        "img": "images/items/wallbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wallbomb"
+    },
+    {
+        "name": "magnumgun",
+        "type": "toggle",
+        "img": "images/items/magnumgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magnumgun"
+    },
+    {
+        "name": "beastfpod",
+        "type": "toggle",
+        "img": "images/items/beastfpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beastfpod"
+    },
+    {
+        "name": "cheetahpod",
+        "type": "toggle",
+        "img": "images/items/cheetahpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cheetahpod"
+    },
+    {
+        "name": "floatfpod",
+        "type": "toggle",
+        "img": "images/items/floatfpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "floatfpod"
+    },
+    {
+        "name": "raywarrior",
+        "type": "toggle",
+        "img": "images/items/raywarrior.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "raywarrior"
+    },
+    {
+        "name": "chapter11memories",
+        "type": "toggle",
+        "img": "images/items/chapter11memories.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chapter11memories"
+    },
+    {
+        "name": "highjumplegs",
+        "type": "toggle",
+        "img": "images/items/highjumplegs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "highjumplegs"
+    },
+    {
+        "name": "straightsbomb",
+        "type": "toggle",
+        "img": "images/items/straightsbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "straightsbomb"
+    },
+    {
+        "name": "quickjumplegs",
+        "type": "toggle",
+        "img": "images/items/quickjumplegs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "quickjumplegs"
+    },
+    {
+        "name": "seeker",
+        "type": "toggle",
+        "img": "images/items/seeker.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "seeker"
+    },
+    {
+        "name": "boosterlegs",
+        "type": "toggle",
+        "img": "images/items/boosterlegs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "boosterlegs"
+    },
+    {
+        "name": "burrowpbomb",
+        "type": "toggle",
+        "img": "images/items/burrowpbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "burrowpbomb"
+    },
+    {
+        "name": "groundfreezepod",
+        "type": "toggle",
+        "img": "images/items/groundfreezepod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "groundfreezepod"
+    },
+    {
+        "name": "peregrine",
+        "type": "toggle",
+        "img": "images/items/peregrine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "peregrine"
+    },
+    {
+        "name": "wyrmgun",
+        "type": "toggle",
+        "img": "images/items/wyrmgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wyrmgun"
+    },
+    {
+        "name": "bubblegun",
+        "type": "toggle",
+        "img": "images/items/bubblegun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bubblegun"
+    },
+    {
+        "name": "chapter7memories",
+        "type": "toggle",
+        "img": "images/items/chapter7memories.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chapter7memories"
+    },
+    {
+        "name": "stungun",
+        "type": "toggle",
+        "img": "images/items/stungun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stungun"
+    },
+    {
+        "name": "breaker",
+        "type": "toggle",
+        "img": "images/items/breaker.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "breaker"
+    },
+    {
+        "name": "waningarcgun",
+        "type": "toggle",
+        "img": "images/items/waningarcgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "waningarcgun"
+    },
+    {
+        "name": "standardpod",
+        "type": "toggle",
+        "img": "images/items/standardpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "standardpod"
+    },
+    {
+        "name": "formulalegs",
+        "type": "toggle",
+        "img": "images/items/formulalegs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "formulalegs"
+    },
+    {
+        "name": "raptorgun",
+        "type": "toggle",
+        "img": "images/items/raptorgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "raptorgun"
+    },
+    {
+        "name": "standardsbomb",
+        "type": "toggle",
+        "img": "images/items/standardsbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "standardsbomb"
+    },
+    {
+        "name": "snipergun",
+        "type": "toggle",
+        "img": "images/items/snipergun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "snipergun"
+    },
+    {
+        "name": "waxingarcgun",
+        "type": "toggle",
+        "img": "images/items/waxingarcgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "waxingarcgun"
+    },
+    {
+        "name": "splashgun",
+        "type": "toggle",
+        "img": "images/items/splashgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "splashgun"
+    },
+    {
+        "name": "geminibbomb",
+        "type": "toggle",
+        "img": "images/items/geminibbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "geminibbomb"
+    },
+    {
+        "name": "burrowdbomb",
+        "type": "toggle",
+        "img": "images/items/burrowdbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "burrowdbomb"
+    },
+    {
+        "name": "shotgungun",
+        "type": "toggle",
+        "img": "images/items/shotgungun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shotgungun"
+    },
+    {
+        "name": "flaregun",
+        "type": "toggle",
+        "img": "images/items/flaregun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flaregun"
+    },
+    {
+        "name": "chapter12memories",
+        "type": "toggle",
+        "img": "images/items/chapter12memories.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chapter12memories"
+    },
+    {
+        "name": "straighttbomb",
+        "type": "toggle",
+        "img": "images/items/straighttbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "straighttbomb"
+    },
+    {
+        "name": "caboosexpod",
+        "type": "toggle",
+        "img": "images/items/caboosexpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "caboosexpod"
+    },
+    {
+        "name": "chapter3memories",
+        "type": "toggle",
+        "img": "images/items/chapter3memories.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chapter3memories"
+    },
+    {
+        "name": "dolphinpod",
+        "type": "toggle",
+        "img": "images/items/dolphinpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dolphinpod"
+    },
+    {
+        "name": "twinflankgpod",
+        "type": "toggle",
+        "img": "images/items/twinflankgpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "twinflankgpod"
+    },
+    {
+        "name": "rakansen",
+        "type": "toggle",
+        "img": "images/items/rakansen.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rakansen"
+    },
+    {
+        "name": "jumpingbpod",
+        "type": "toggle",
+        "img": "images/items/jumpingbpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jumpingbpod"
+    },
+    {
+        "name": "metalbear",
+        "type": "toggle",
+        "img": "images/items/metalbear.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "metalbear"
+    },
+    {
+        "name": "rightwavebomb",
+        "type": "toggle",
+        "img": "images/items/rightwavebomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rightwavebomb"
+    },
+    {
+        "name": "straightgbomb",
+        "type": "toggle",
+        "img": "images/items/straightgbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "straightgbomb"
+    },
+    {
+        "name": "shortthrustlegs",
+        "type": "toggle",
+        "img": "images/items/shortthrustlegs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shortthrustlegs"
+    },
+    {
+        "name": "deltabomb",
+        "type": "toggle",
+        "img": "images/items/deltabomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "deltabomb"
+    },
+    {
+        "name": "orcapod",
+        "type": "toggle",
+        "img": "images/items/orcapod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "orcapod"
+    },
+    {
+        "name": "submarinekbomb",
+        "type": "toggle",
+        "img": "images/items/submarinekbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "submarinekbomb"
+    },
+    {
+        "name": "dualbomb",
+        "type": "toggle",
+        "img": "images/items/dualbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dualbomb"
+    },
+    {
+        "name": "spidergpod",
+        "type": "toggle",
+        "img": "images/items/spidergpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spidergpod"
+    },
+    {
+        "name": "umbrellapod",
+        "type": "toggle",
+        "img": "images/items/umbrellapod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "umbrellapod"
+    },
+    {
+        "name": "chapter6memories",
+        "type": "toggle",
+        "img": "images/items/chapter6memories.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chapter6memories"
+    },
+    {
+        "name": "caboosecpod",
+        "type": "toggle",
+        "img": "images/items/caboosecpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "caboosecpod"
+    },
+    {
+        "name": "cockroachhpod",
+        "type": "toggle",
+        "img": "images/items/cockroachhpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cockroachhpod"
+    },
+    {
+        "name": "feintgpod",
+        "type": "toggle",
+        "img": "images/items/feintgpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "feintgpod"
+    },
+    {
+        "name": "juggler",
+        "type": "toggle",
+        "img": "images/items/juggler.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "juggler"
+    },
+    {
+        "name": "iongun",
+        "type": "toggle",
+        "img": "images/items/iongun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "iongun"
+    },
+    {
+        "name": "athena",
+        "type": "toggle",
+        "img": "images/items/athena.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "athena"
+    },
+    {
+        "name": "dourhead",
+        "type": "toggle",
+        "img": "images/items/dourhead.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dourhead"
+    },
+    {
+        "name": "chapter10memories",
+        "type": "toggle",
+        "img": "images/items/chapter10memories.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chapter10memories"
+    },
+    {
+        "name": "twinflankfpod",
+        "type": "toggle",
+        "img": "images/items/twinflankfpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "twinflankfpod"
+    },
+    {
+        "name": "starshotgun",
+        "type": "toggle",
+        "img": "images/items/starshotgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "starshotgun"
+    },
+    {
+        "name": "shrike",
+        "type": "toggle",
+        "img": "images/items/shrike.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shrike"
+    },
+    {
+        "name": "cangun",
+        "type": "toggle",
+        "img": "images/items/cangun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cangun"
+    },
+    {
+        "name": "geminipbomb",
+        "type": "toggle",
+        "img": "images/items/geminipbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "geminipbomb"
+    },
+    {
+        "name": "divingpod",
+        "type": "toggle",
+        "img": "images/items/divingpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "divingpod"
+    },
+    {
+        "name": "leftflankhbomb",
+        "type": "toggle",
+        "img": "images/items/leftflankhbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "leftflankhbomb"
+    },
+    {
+        "name": "triohpod",
+        "type": "toggle",
+        "img": "images/items/triohpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "triohpod"
+    },
+    {
+        "name": "standardfbomb",
+        "type": "toggle",
+        "img": "images/items/standardfbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "standardfbomb"
+    },
+    {
+        "name": "dualcbomb",
+        "type": "toggle",
+        "img": "images/items/dualcbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dualcbomb"
+    },
+    {
+        "name": "rightflankhbomb",
+        "type": "toggle",
+        "img": "images/items/rightflankhbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rightflankhbomb"
+    },
+    {
+        "name": "speedppod",
+        "type": "toggle",
+        "img": "images/items/speedppod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "speedppod"
+    },
+    {
+        "name": "swordstormgun",
+        "type": "toggle",
+        "img": "images/items/swordstormgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "swordstormgun"
+    },
+    {
+        "name": "caboosetpod",
+        "type": "toggle",
+        "img": "images/items/caboosetpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "caboosetpod"
+    },
+    {
+        "name": "spiderpod",
+        "type": "toggle",
+        "img": "images/items/spiderpod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spiderpod"
+    },
+    {
+        "name": "rightarcgun",
+        "type": "toggle",
+        "img": "images/items/rightarcgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rightarcgun"
+    },
+    {
+        "name": "needlegun",
+        "type": "toggle",
+        "img": "images/items/needlegun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "needlegun"
+    },
+    {
+        "name": "swift",
+        "type": "toggle",
+        "img": "images/items/swift.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "swift"
+    },
+    {
+        "name": "rayfallgun",
+        "type": "toggle",
+        "img": "images/items/rayfallgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rayfallgun"
+    },
+    {
+        "name": "throwingppod",
+        "type": "toggle",
+        "img": "images/items/throwingppod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "throwingppod"
+    },
+    {
+        "name": "submarinepbomb",
+        "type": "toggle",
+        "img": "images/items/submarinepbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "submarinepbomb"
+    },
+    {
+        "name": "ray01",
+        "type": "toggle",
+        "img": "images/items/ray01.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ray01"
+    },
+    {
+        "name": "waningarcbomb",
+        "type": "toggle",
+        "img": "images/items/waningarcbomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "waningarcbomb"
+    },
+    {
+        "name": "meteorstormgun",
+        "type": "toggle",
+        "img": "images/items/meteorstormgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "meteorstormgun"
+    },
+    {
+        "name": "update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    }
+]

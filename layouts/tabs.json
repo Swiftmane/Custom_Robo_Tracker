@@ -1,0 +1,110 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Summary",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Summary"
+                    ]
+                }
+            },{
+                "title": "Robos",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Robos"
+                    ]
+                }
+            },{
+                "title": "Guns",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Guns"
+                    ]
+                }
+            },{
+                "title": "Bombs",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Bombs"
+                    ]
+                }
+            },{
+                "title": "Pods",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Pods"
+                    ]
+                }
+            },{
+                "title": "Legs",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Legs"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Summary",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Summary"
+                    ]
+                }
+            },{
+                "title": "Robos",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Robos"
+                    ]
+                }
+            },{
+                "title": "Guns",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Guns"
+                    ]
+                }
+            },{
+                "title": "Pods",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Pods"
+                    ]
+                }
+            },{
+                "title": "Bombs",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Bombs"
+                    ]
+                }
+            },{
+                "title": "Legs",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Legs"
+                    ]
+                }
+            }
+        ]
+    }
+}

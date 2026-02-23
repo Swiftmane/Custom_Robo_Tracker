@@ -1,0 +1,1381 @@
+[
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Bomb",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Bomb - Use Standard Bomb",
+                        "ref": "Bomb/Use Standard Bomb/Standard Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Standard F Bomb",
+                        "ref": "Bomb/Use Standard F Bomb/Standard F Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Standard S Bomb",
+                        "ref": "Bomb/Use Standard S Bomb/Standard S Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Wave Bomb",
+                        "ref": "Bomb/Use Wave Bomb/Wave Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Straight G Bomb",
+                        "ref": "Bomb/Use Straight G Bomb/Straight G Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Straight S Bomb",
+                        "ref": "Bomb/Use Straight S Bomb/Straight S Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Straight T Bomb",
+                        "ref": "Bomb/Use Straight T Bomb/Straight T Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Right Flank H Bomb",
+                        "ref": "Bomb/Use Right Flank H Bomb/Right Flank H Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Left Flank H Bomb",
+                        "ref": "Bomb/Use Left Flank H Bomb/Left Flank H Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Right Wave Bomb",
+                        "ref": "Bomb/Use Right Wave Bomb/Right Wave Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Left Wave Bomb",
+                        "ref": "Bomb/Use Left Wave Bomb/Left Wave Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Burrow D Bomb",
+                        "ref": "Bomb/Use Burrow D Bomb/Burrow D Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Burrow P Bomb",
+                        "ref": "Bomb/Use Burrow P Bomb/Burrow P Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Freeze Bomb",
+                        "ref": "Bomb/Use Freeze Bomb/Freeze Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Tomahawk B Bomb",
+                        "ref": "Bomb/Use Tomahawk B Bomb/Tomahawk B Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Tomahawk G Bomb",
+                        "ref": "Bomb/Use Tomahawk G Bomb/Tomahawk G Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Gemini B Bomb",
+                        "ref": "Bomb/Use Gemini B Bomb/Gemini B Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Gemini P Bomb",
+                        "ref": "Bomb/Use Gemini P Bomb/Gemini P Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Submarine D Bomb",
+                        "ref": "Bomb/Use Submarine D Bomb/Submarine D Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Submarine P Bomb",
+                        "ref": "Bomb/Use Submarine P Bomb/Submarine P Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Crescent P Bomb",
+                        "ref": "Bomb/Use Crescent P Bomb/Crescent P Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Crescent C Bomb",
+                        "ref": "Bomb/Use Crescent C Bomb/Crescent C Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Dual Bomb",
+                        "ref": "Bomb/Use Dual Bomb/Dual Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Dual C Bomb",
+                        "ref": "Bomb/Use Dual C Bomb/Dual C Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Acrobat Bomb",
+                        "ref": "Bomb/Use Acrobat Bomb/Acrobat Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Delta Bomb",
+                        "ref": "Bomb/Use Delta Bomb/Delta Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Wall Bomb",
+                        "ref": "Bomb/Use Wall Bomb/Wall Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Smash Bomb",
+                        "ref": "Bomb/Use Smash Bomb/Smash Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Double Mine Bomb",
+                        "ref": "Bomb/Use Double Mine Bomb/Double Mine Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Geo Trap Bomb",
+                        "ref": "Bomb/Use Geo Trap Bomb/Geo Trap Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Titan Bomb",
+                        "ref": "Bomb/Use Titan Bomb/Titan Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Can Bomb",
+                        "ref": "Bomb/Use Can Bomb/Can Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Standard K Bomb",
+                        "ref": "Bomb/Use Standard K Bomb/Standard K Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Submarine K Bomb",
+                        "ref": "Bomb/Use Submarine K Bomb/Submarine K Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Crescent K Bomb",
+                        "ref": "Bomb/Use Crescent K Bomb/Crescent K Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Standard X Bomb",
+                        "ref": "Bomb/Use Standard X Bomb/Standard X Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Treble Bomb",
+                        "ref": "Bomb/Use Treble Bomb/Treble Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Wyvern Bomb",
+                        "ref": "Bomb/Use Wyvern Bomb/Wyvern Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Waxing Arc Bomb",
+                        "ref": "Bomb/Use Waxing Arc Bomb/Waxing Arc Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Waning Arc Bomb",
+                        "ref": "Bomb/Use Waning Arc Bomb/Waning Arc Bomb"
+                    },
+                    {
+                        "name": "Bomb - Use Grand Cross Bomb",
+                        "ref": "Bomb/Use Grand Cross Bomb/Grand Cross Bomb"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Summary",
+                        "x": 377,
+                        "y": 285
+                    }
+                ]
+            },
+            {
+                "name": "Chapter 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chapter 1 - VS Bandit #1",
+                        "ref": "Chapter 1/VS Bandit #1"
+                    },
+                    {
+                        "name": "Chapter 1 - VS Bandit #2",
+                        "ref": "Chapter 1/VS Bandit #2"
+                    },
+                    {
+                        "name": "Chapter 1 - VS Bandit #3",
+                        "ref": "Chapter 1/VS Bandit #3"
+                    },
+                    {
+                        "name": "Chapter 1 - VS Bandit #4",
+                        "ref": "Chapter 1/VS Bandit #4"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Summary",
+                        "x": 81,
+                        "y": 57
+                    }
+                ]
+            },
+            {
+                "name": "Chapter 10",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chapter 10 - VS Police Officer #1",
+                        "ref": "Chapter 10/VS Police Officer #1"
+                    },
+                    {
+                        "name": "Chapter 10 - VS Police Officer #2",
+                        "ref": "Chapter 10/VS Police Officer #2"
+                    },
+                    {
+                        "name": "Chapter 10 - VS Linda",
+                        "ref": "Chapter 10/VS Linda"
+                    },
+                    {
+                        "name": "Chapter 10 - VS Roy",
+                        "ref": "Chapter 10/VS Roy"
+                    },
+                    {
+                        "name": "Chapter 10 - VS Mira",
+                        "ref": "Chapter 10/VS Mira"
+                    },
+                    {
+                        "name": "Chapter 10 - VS Police Chief",
+                        "ref": "Chapter 10/VS Police Chief"
+                    },
+                    {
+                        "name": "Chapter 10 - VS S-Rank Computer",
+                        "ref": "Chapter 10/VS S-Rank Computer"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Summary",
+                        "x": 525,
+                        "y": 155
+                    }
+                ]
+            },
+            {
+                "name": "Chapter 11",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chapter 11 - VS Isabella",
+                        "ref": "Chapter 11/VS Isabella"
+                    },
+                    {
+                        "name": "Chapter 11 - VS Oboro & Sergei",
+                        "ref": "Chapter 11/VS Oboro & Sergei"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Summary",
+                        "x": 672,
+                        "y": 155
+                    }
+                ]
+            },
+            {
+                "name": "Chapter 12",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chapter 12 - VS Z Lackey #1",
+                        "ref": "Chapter 12/VS Z Lackey #1"
+                    },
+                    {
+                        "name": "Chapter 12 - VS Shiner",
+                        "ref": "Chapter 12/VS Shiner"
+                    },
+                    {
+                        "name": "Chapter 12 - VS Z Lackey #2",
+                        "ref": "Chapter 12/VS Z Lackey #2"
+                    },
+                    {
+                        "name": "Chapter 12 - VS Z Lackey #3",
+                        "ref": "Chapter 12/VS Z Lackey #3"
+                    },
+                    {
+                        "name": "Chapter 12 - VS Z Lackey #4",
+                        "ref": "Chapter 12/VS Z Lackey #4"
+                    },
+                    {
+                        "name": "Chapter 12 - VS Z Tech #1",
+                        "ref": "Chapter 12/VS Z Tech #1"
+                    },
+                    {
+                        "name": "Chapter 12 - VS Z Tech #2",
+                        "ref": "Chapter 12/VS Z Tech #2"
+                    },
+                    {
+                        "name": "Chapter 12 - VS Z Lackey Duo #1",
+                        "ref": "Chapter 12/VS Z Lackey Duo #1"
+                    },
+                    {
+                        "name": "Chapter 12 - VS Z Lackey Duo #2",
+                        "ref": "Chapter 12/VS Z Lackey Duo #2"
+                    },
+                    {
+                        "name": "Chapter 12 - VS Oboro",
+                        "ref": "Chapter 12/VS Oboro"
+                    },
+                    {
+                        "name": "Chapter 12 - VS Rahu II",
+                        "ref": "Chapter 12/VS Rahu II"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Summary",
+                        "x": 820,
+                        "y": 155
+                    }
+                ]
+            },
+            {
+                "name": "Chapter 13",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chapter 13 - VS Z Lackey",
+                        "ref": "Chapter 13/VS Z Lackey"
+                    },
+                    {
+                        "name": "Chapter 13 - VS Z Lackey Duo",
+                        "ref": "Chapter 13/VS Z Lackey Duo"
+                    },
+                    {
+                        "name": "Chapter 13 - Amusement Battle 3",
+                        "ref": "Chapter 13/Amusement Battle 3"
+                    },
+                    {
+                        "name": "Chapter 13 - Amusement Battle 4",
+                        "ref": "Chapter 13/Amusement Battle 4"
+                    },
+                    {
+                        "name": "Chapter 13 - Amusement Battle 5",
+                        "ref": "Chapter 13/Amusement Battle 5"
+                    },
+                    {
+                        "name": "Chapter 13 - Amusement Battle 6",
+                        "ref": "Chapter 13/Amusement Battle 6"
+                    },
+                    {
+                        "name": "Chapter 13 - Amusement Battle 7",
+                        "ref": "Chapter 13/Amusement Battle 7"
+                    },
+                    {
+                        "name": "Chapter 13 - Amusement Battle 8",
+                        "ref": "Chapter 13/Amusement Battle 8"
+                    },
+                    {
+                        "name": "Chapter 13 - Amusement Battle 9",
+                        "ref": "Chapter 13/Amusement Battle 9"
+                    },
+                    {
+                        "name": "Chapter 13 - Amusement Battle 10",
+                        "ref": "Chapter 13/Amusement Battle 10"
+                    },
+                    {
+                        "name": "Chapter 13 - Amusement Battle 11",
+                        "ref": "Chapter 13/Amusement Battle 11"
+                    },
+                    {
+                        "name": "Chapter 13 - Amusement Battle 12",
+                        "ref": "Chapter 13/Amusement Battle 12"
+                    },
+                    {
+                        "name": "Chapter 13 - Amusement Battle 13",
+                        "ref": "Chapter 13/Amusement Battle 13"
+                    },
+                    {
+                        "name": "Chapter 13 - Amusement Battle 14",
+                        "ref": "Chapter 13/Amusement Battle 14"
+                    },
+                    {
+                        "name": "Chapter 13 - Amusement Battle 15",
+                        "ref": "Chapter 13/Amusement Battle 15"
+                    },
+                    {
+                        "name": "Chapter 13 - Amusement Battle 16",
+                        "ref": "Chapter 13/Amusement Battle 16"
+                    },
+                    {
+                        "name": "Chapter 13 - Amusement Battle 17",
+                        "ref": "Chapter 13/Amusement Battle 17"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Summary",
+                        "x": 968,
+                        "y": 155
+                    }
+                ]
+            },
+            {
+                "name": "Chapter 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "VS Thomas/Anthony",
+                        "ref": "Chapter 2/VS Thomas or Anthony"
+                    },
+                    {
+                        "name": "Chapter 2 - VS Harry",
+                        "ref": "Chapter 2/VS Harry"
+                    },
+                    {
+                        "name": "Chapter 2 - VS Gym Bot #1",
+                        "ref": "Chapter 2/VS Gym Bot #1"
+                    },
+                    {
+                        "name": "Chapter 2 - VS Gym Bot #2",
+                        "ref": "Chapter 2/VS Gym Bot #2"
+                    },
+                    {
+                        "name": "Chapter 2 - VS Gym Bot #3",
+                        "ref": "Chapter 2/VS Gym Bot #3"
+                    },
+                    {
+                        "name": "Chapter 2 - VS Gym Bot #4",
+                        "ref": "Chapter 2/VS Gym Bot #4"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Summary",
+                        "x": 229,
+                        "y": 57
+                    }
+                ]
+            },
+            {
+                "name": "Chapter 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chapter 3 - VS Test Computer",
+                        "ref": "Chapter 3/VS Test Computer"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Summary",
+                        "x": 377,
+                        "y": 57
+                    }
+                ]
+            },
+            {
+                "name": "Chapter 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chapter 4 - VS Carmen",
+                        "ref": "Chapter 4/VS Carmen"
+                    },
+                    {
+                        "name": "Chapter 4 - VS Walt & Carmen",
+                        "ref": "Chapter 4/VS Walt & Carmen"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Summary",
+                        "x": 525,
+                        "y": 57
+                    }
+                ]
+            },
+            {
+                "name": "Chapter 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chapter 5 - VS Evil & Bubble",
+                        "ref": "Chapter 5/VS Evil & Bubble"
+                    },
+                    {
+                        "name": "Chapter 5 - VS Paulie",
+                        "ref": "Chapter 5/VS Paulie"
+                    },
+                    {
+                        "name": "Chapter 5 - VS Walt",
+                        "ref": "Chapter 5/VS Walt"
+                    },
+                    {
+                        "name": "Chapter 5 - VS Harry",
+                        "ref": "Chapter 5/VS Harry"
+                    },
+                    {
+                        "name": "Chapter 5 - VS Shiner",
+                        "ref": "Chapter 5/VS Shiner"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Summary",
+                        "x": 672,
+                        "y": 57
+                    }
+                ]
+            },
+            {
+                "name": "Chapter 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chapter 6 - VS Will",
+                        "ref": "Chapter 6/VS Will"
+                    },
+                    {
+                        "name": "Chapter 6 - VS Don",
+                        "ref": "Chapter 6/VS Don"
+                    },
+                    {
+                        "name": "Chapter 6 - VS Mary",
+                        "ref": "Chapter 6/VS Mary"
+                    },
+                    {
+                        "name": "Chapter 6 - VS Evil",
+                        "ref": "Chapter 6/VS Evil"
+                    },
+                    {
+                        "name": "Chapter 6 - VS Marcia",
+                        "ref": "Chapter 6/VS Marcia"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Summary",
+                        "x": 820,
+                        "y": 57
+                    }
+                ]
+            },
+            {
+                "name": "Chapter 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chapter 7 - VS Z Lackey #1",
+                        "ref": "Chapter 7/VS Z Lackey #1"
+                    },
+                    {
+                        "name": "Chapter 7 - VS Z Lackey #2",
+                        "ref": "Chapter 7/VS Z Lackey #2"
+                    },
+                    {
+                        "name": "Chapter 7 - VS Z Lackey #3",
+                        "ref": "Chapter 7/VS Z Lackey #3"
+                    },
+                    {
+                        "name": "Chapter 7 - VS Eliza",
+                        "ref": "Chapter 7/VS Eliza"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Summary",
+                        "x": 81,
+                        "y": 155
+                    }
+                ]
+            },
+            {
+                "name": "Chapter 8",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chapter 8 - VS Rahu",
+                        "ref": "Chapter 8/VS Rahu"
+                    },
+                    {
+                        "name": "Chapter 8 - VS Sergei",
+                        "ref": "Chapter 8/VS Sergei"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Summary",
+                        "x": 229,
+                        "y": 155
+                    }
+                ]
+            },
+            {
+                "name": "Chapter 9",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chapter 9 - VS Will & Wendy",
+                        "ref": "Chapter 9/VS Will & Wendy"
+                    },
+                    {
+                        "name": "Chapter 9 - VS Thomas & Anthony",
+                        "ref": "Chapter 9/VS Thomas & Anthony"
+                    },
+                    {
+                        "name": "Chapter 9 - VS Police Officer Duo",
+                        "ref": "Chapter 9/VS Police Officer Duo"
+                    },
+                    {
+                        "name": "Chapter 9 - VS Walt & Carmen",
+                        "ref": "Chapter 9/VS Walt & Carmen"
+                    },
+                    {
+                        "name": "Chapter 9 - VS Bogey & Waiter",
+                        "ref": "Chapter 9/VS Bogey & Waiter"
+                    },
+                    {
+                        "name": "Chapter 9 - VS Mira & Roy",
+                        "ref": "Chapter 9/VS Mira & Roy"
+                    },
+                    {
+                        "name": "Chapter 9 - VS Evil",
+                        "ref": "Chapter 9/VS Evil"
+                    },
+                    {
+                        "name": "Chapter 9 - VS Linda & Ernest",
+                        "ref": "Chapter 9/VS Linda & Ernest"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Summary",
+                        "x": 377,
+                        "y": 155
+                    }
+                ]
+            },
+            {
+                "name": "Gun",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Gun - Use Basic Gun",
+                        "ref": "Gun/Use Basic Gun/Basic Gun"
+                    },
+                    {
+                        "name": "Gun - Use 3-Way Gun",
+                        "ref": "Gun/Use 3-Way Gun/3-Way Gun"
+                    },
+                    {
+                        "name": "Gun - Use Gatling Gun",
+                        "ref": "Gun/Use Gatling Gun/Gatling Gun"
+                    },
+                    {
+                        "name": "Gun - Use Vertical Gun",
+                        "ref": "Gun/Use Vertical Gun/Vertical Gun"
+                    },
+                    {
+                        "name": "Gun - Use Sniper Gun",
+                        "ref": "Gun/Use Sniper Gun/Sniper Gun"
+                    },
+                    {
+                        "name": "Gun - Use Stun Gun",
+                        "ref": "Gun/Use Stun Gun/Stun Gun"
+                    },
+                    {
+                        "name": "Gun - Use Hornet Gun",
+                        "ref": "Gun/Use Hornet Gun/Hornet Gun"
+                    },
+                    {
+                        "name": "Gun - Use Flame Gun",
+                        "ref": "Gun/Use Flame Gun/Flame Gun"
+                    },
+                    {
+                        "name": "Gun - Use Dragon Gun",
+                        "ref": "Gun/Use Dragon Gun/Dragon Gun"
+                    },
+                    {
+                        "name": "Gun - Use Splash Gun",
+                        "ref": "Gun/Use Splash Gun/Splash Gun"
+                    },
+                    {
+                        "name": "Gun - Use Left Arc Gun",
+                        "ref": "Gun/Use Left Arc Gun/Left Arc Gun"
+                    },
+                    {
+                        "name": "Gun - Use Right Arc Gun",
+                        "ref": "Gun/Use Right Arc Gun/Right Arc Gun"
+                    },
+                    {
+                        "name": "Gun - Use Shotgun Gun",
+                        "ref": "Gun/Use Shotgun Gun/Shotgun Gun"
+                    },
+                    {
+                        "name": "Gun - Use Rayfall Gun",
+                        "ref": "Gun/Use Rayfall Gun/Rayfall Gun"
+                    },
+                    {
+                        "name": "Gun - Use Bubble Gun",
+                        "ref": "Gun/Use Bubble Gun/Bubble Gun"
+                    },
+                    {
+                        "name": "Gun - Use Eagle Gun",
+                        "ref": "Gun/Use Eagle Gun/Eagle Gun"
+                    },
+                    {
+                        "name": "Gun - Use V Laser Gun",
+                        "ref": "Gun/Use V Laser Gun/V Laser Gun"
+                    },
+                    {
+                        "name": "Gun - Use Magnum Gun",
+                        "ref": "Gun/Use Magnum Gun/Magnum Gun"
+                    },
+                    {
+                        "name": "Gun - Use Needle Gun",
+                        "ref": "Gun/Use Needle Gun/Needle Gun"
+                    },
+                    {
+                        "name": "Gun - Use Starshot Gun",
+                        "ref": "Gun/Use Starshot Gun/Starshot Gun"
+                    },
+                    {
+                        "name": "Gun - Use Glider Gun",
+                        "ref": "Gun/Use Glider Gun/Glider Gun"
+                    },
+                    {
+                        "name": "Gun - Use Homing Star Gun",
+                        "ref": "Gun/Use Homing Star Gun/Homing Star Gun"
+                    },
+                    {
+                        "name": "Gun - Use Trap Gun",
+                        "ref": "Gun/Use Trap Gun/Trap Gun"
+                    },
+                    {
+                        "name": "Gun - Use Drill Gun",
+                        "ref": "Gun/Use Drill Gun/Drill Gun"
+                    },
+                    {
+                        "name": "Gun - Use Titan Gun",
+                        "ref": "Gun/Use Titan Gun/Titan Gun"
+                    },
+                    {
+                        "name": "Gun - Use Claw Gun",
+                        "ref": "Gun/Use Claw Gun/Claw Gun"
+                    },
+                    {
+                        "name": "Gun - Use Knuckle Gun",
+                        "ref": "Gun/Use Knuckle Gun/Knuckle Gun"
+                    },
+                    {
+                        "name": "Gun - Use Afterburner Gun",
+                        "ref": "Gun/Use Afterburner Gun/Afterburner Gun"
+                    },
+                    {
+                        "name": "Gun - Use Blade Gun",
+                        "ref": "Gun/Use Blade Gun/Blade Gun"
+                    },
+                    {
+                        "name": "Gun - Use Meteor Storm Gun",
+                        "ref": "Gun/Use Meteor Storm Gun/Meteor Storm Gun"
+                    },
+                    {
+                        "name": "Gun - Use Twin Fang Gun",
+                        "ref": "Gun/Use Twin Fang Gun/Twin Fang Gun"
+                    },
+                    {
+                        "name": "Gun - Use Gravity Gun",
+                        "ref": "Gun/Use Gravity Gun/Gravity Gun"
+                    },
+                    {
+                        "name": "Gun - Use Phoenix Gun",
+                        "ref": "Gun/Use Phoenix Gun/Phoenix Gun"
+                    },
+                    {
+                        "name": "Gun - Use Can Gun",
+                        "ref": "Gun/Use Can Gun/Can Gun"
+                    },
+                    {
+                        "name": "Gun - Use Left Pulse Gun",
+                        "ref": "Gun/Use Left Pulse Gun/Left Pulse Gun"
+                    },
+                    {
+                        "name": "Gun - Use Right Pulse Gun",
+                        "ref": "Gun/Use Right Pulse Gun/Right Pulse Gun"
+                    },
+                    {
+                        "name": "Gun - Use Sword Storm Gun",
+                        "ref": "Gun/Use Sword Storm Gun/Sword Storm Gun"
+                    },
+                    {
+                        "name": "Gun - Use Ion Gun",
+                        "ref": "Gun/Use Ion Gun/Ion Gun"
+                    },
+                    {
+                        "name": "Gun - Use Flare Gun",
+                        "ref": "Gun/Use Flare Gun/Flare Gun"
+                    },
+                    {
+                        "name": "Gun - Use Left 5-Way Gun",
+                        "ref": "Gun/Use Left 5-Way Gun/Left 5-Way Gun"
+                    },
+                    {
+                        "name": "Gun - Use Right 5-Way Gun",
+                        "ref": "Gun/Use Right 5-Way Gun/Right 5-Way Gun"
+                    },
+                    {
+                        "name": "Gun - Use Halo Gun",
+                        "ref": "Gun/Use Halo Gun/Halo Gun"
+                    },
+                    {
+                        "name": "Gun - Use Wave Laser Gun",
+                        "ref": "Gun/Use Wave Laser Gun/Wave Laser Gun"
+                    },
+                    {
+                        "name": "Gun - Use X Laser Gun",
+                        "ref": "Gun/Use X Laser Gun/X Laser Gun"
+                    },
+                    {
+                        "name": "Gun - Use Crystal Strike Gun",
+                        "ref": "Gun/Use Crystal Strike Gun/Crystal Strike Gun"
+                    },
+                    {
+                        "name": "Gun - Use Wyrm Gun",
+                        "ref": "Gun/Use Wyrm Gun/Wyrm Gun"
+                    },
+                    {
+                        "name": "Gun - Use Raptor Gun",
+                        "ref": "Gun/Use Raptor Gun/Raptor Gun"
+                    },
+                    {
+                        "name": "Gun - Use Waxing Arc Gun",
+                        "ref": "Gun/Use Waxing Arc Gun/Waxing Arc Gun"
+                    },
+                    {
+                        "name": "Gun - Use Waning Arc Gun",
+                        "ref": "Gun/Use Waning Arc Gun/Waning Arc Gun"
+                    },
+                    {
+                        "name": "Gun - Use Rahu I Gun",
+                        "ref": "Gun/Use Rahu I Gun/Rahu I Gun"
+                    },
+                    {
+                        "name": "Gun - Use Rahu II Gun",
+                        "ref": "Gun/Use Rahu II Gun/Rahu II Gun"
+                    },
+                    {
+                        "name": "Gun - Use Rahu III Gun",
+                        "ref": "Gun/Use Rahu III Gun/Rahu III Gun"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Summary",
+                        "x": 229,
+                        "y": 285
+                    }
+                ]
+            },
+            {
+                "name": "Legs",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Legs - Use Standard Legs",
+                        "ref": "Legs/Use Standard Legs/Standard Legs"
+                    },
+                    {
+                        "name": "Legs - Use High Jump Legs",
+                        "ref": "Legs/Use High Jump Legs/High Jump Legs"
+                    },
+                    {
+                        "name": "Legs - Use Ground Legs",
+                        "ref": "Legs/Use Ground Legs/Ground Legs"
+                    },
+                    {
+                        "name": "Legs - Use Formula Legs",
+                        "ref": "Legs/Use Formula Legs/Formula Legs"
+                    },
+                    {
+                        "name": "Legs - Use Stabilizer Legs",
+                        "ref": "Legs/Use Stabilizer Legs/Stabilizer Legs"
+                    },
+                    {
+                        "name": "Legs - Use Short Thrust Legs",
+                        "ref": "Legs/Use Short Thrust Legs/Short Thrust Legs"
+                    },
+                    {
+                        "name": "Legs - Use Long Thrust Legs",
+                        "ref": "Legs/Use Long Thrust Legs/Long Thrust Legs"
+                    },
+                    {
+                        "name": "Legs - Use Quick Jump Legs",
+                        "ref": "Legs/Use Quick Jump Legs/Quick Jump Legs"
+                    },
+                    {
+                        "name": "Legs - Use Feather Legs",
+                        "ref": "Legs/Use Feather Legs/Feather Legs"
+                    },
+                    {
+                        "name": "Legs - Use Wide Jump Legs",
+                        "ref": "Legs/Use Wide Jump Legs/Wide Jump Legs"
+                    },
+                    {
+                        "name": "Legs - Use Can Legs",
+                        "ref": "Legs/Use Can Legs/Can Legs"
+                    },
+                    {
+                        "name": "Legs - Use Booster Legs",
+                        "ref": "Legs/Use Booster Legs/Booster Legs"
+                    },
+                    {
+                        "name": "Legs - Use Swallow Legs",
+                        "ref": "Legs/Use Swallow Legs/Swallow Legs"
+                    },
+                    {
+                        "name": "Legs - Use Raven Legs",
+                        "ref": "Legs/Use Raven Legs/Raven Legs"
+                    },
+                    {
+                        "name": "Legs - Use Eclipse Legs",
+                        "ref": "Legs/Use Eclipse Legs/Eclipse Legs"
+                    },
+                    {
+                        "name": "Legs - Use Ultimate Legs",
+                        "ref": "Legs/Use Ultimate Legs/Ultimate Legs"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Summary",
+                        "x": 672,
+                        "y": 285
+                    }
+                ]
+            },
+            {
+                "name": "Pod",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pod - Use Standard Pod",
+                        "ref": "Pod/Use Standard Pod/Standard Pod"
+                    },
+                    {
+                        "name": "Pod - Use Seeker F Pod",
+                        "ref": "Pod/Use Seeker F Pod/Seeker F Pod"
+                    },
+                    {
+                        "name": "Pod - Use Seeker G Pod",
+                        "ref": "Pod/Use Seeker G Pod/Seeker G Pod"
+                    },
+                    {
+                        "name": "Pod - Use Speed D Pod",
+                        "ref": "Pod/Use Speed D Pod/Speed D Pod"
+                    },
+                    {
+                        "name": "Pod - Use Speed P Pod",
+                        "ref": "Pod/Use Speed P Pod/Speed P Pod"
+                    },
+                    {
+                        "name": "Pod - Use Cockroach G Pod",
+                        "ref": "Pod/Use Cockroach G Pod/Cockroach G Pod"
+                    },
+                    {
+                        "name": "Pod - Use Cockroach H Pod",
+                        "ref": "Pod/Use Cockroach H Pod/Cockroach H Pod"
+                    },
+                    {
+                        "name": "Pod - Use Dolphin Pod",
+                        "ref": "Pod/Use Dolphin Pod/Dolphin Pod"
+                    },
+                    {
+                        "name": "Pod - Use Dolphin G Pod",
+                        "ref": "Pod/Use Dolphin G Pod/Dolphin G Pod"
+                    },
+                    {
+                        "name": "Pod - Use Spider Pod",
+                        "ref": "Pod/Use Spider Pod/Spider Pod"
+                    },
+                    {
+                        "name": "Pod - Use Spider G Pod",
+                        "ref": "Pod/Use Spider G Pod/Spider G Pod"
+                    },
+                    {
+                        "name": "Pod - Use Sky Freeze Pod",
+                        "ref": "Pod/Use Sky Freeze Pod/Sky Freeze Pod"
+                    },
+                    {
+                        "name": "Pod - Use Ground Freeze Pod",
+                        "ref": "Pod/Use Ground Freeze Pod/Ground Freeze Pod"
+                    },
+                    {
+                        "name": "Pod - Use Feint F Pod",
+                        "ref": "Pod/Use Feint F Pod/Feint F Pod"
+                    },
+                    {
+                        "name": "Pod - Use Feint G Pod",
+                        "ref": "Pod/Use Feint G Pod/Feint G Pod"
+                    },
+                    {
+                        "name": "Pod - Use Float F Pod",
+                        "ref": "Pod/Use Float F Pod/Float F Pod"
+                    },
+                    {
+                        "name": "Pod - Use Jumping B Pod",
+                        "ref": "Pod/Use Jumping B Pod/Jumping B Pod"
+                    },
+                    {
+                        "name": "Pod - Use Jumping G Pod",
+                        "ref": "Pod/Use Jumping G Pod/Jumping G Pod"
+                    },
+                    {
+                        "name": "Pod - Use Diving Pod",
+                        "ref": "Pod/Use Diving Pod/Diving Pod"
+                    },
+                    {
+                        "name": "Pod - Use Wave Pod",
+                        "ref": "Pod/Use Wave Pod/Wave Pod"
+                    },
+                    {
+                        "name": "Pod - Use Satellite Pod",
+                        "ref": "Pod/Use Satellite Pod/Satellite Pod"
+                    },
+                    {
+                        "name": "Pod - Use Satellite H Pod",
+                        "ref": "Pod/Use Satellite H Pod/Satellite H Pod"
+                    },
+                    {
+                        "name": "Pod - Use Beast F Pod",
+                        "ref": "Pod/Use Beast F Pod/Beast F Pod"
+                    },
+                    {
+                        "name": "Pod - Use Trio H Pod",
+                        "ref": "Pod/Use Trio H Pod/Trio H Pod"
+                    },
+                    {
+                        "name": "Pod - Use Wall Pod",
+                        "ref": "Pod/Use Wall Pod/Wall Pod"
+                    },
+                    {
+                        "name": "Pod - Use Reflection Pod",
+                        "ref": "Pod/Use Reflection Pod/Reflection Pod"
+                    },
+                    {
+                        "name": "Pod - Use Caboose C Pod",
+                        "ref": "Pod/Use Caboose C Pod/Caboose C Pod"
+                    },
+                    {
+                        "name": "Pod - Use Caboose T Pod",
+                        "ref": "Pod/Use Caboose T Pod/Caboose T Pod"
+                    },
+                    {
+                        "name": "Pod - Use Twin Flank F Pod",
+                        "ref": "Pod/Use Twin Flank F Pod/Twin Flank F Pod"
+                    },
+                    {
+                        "name": "Pod - Use Twin Flank G Pod",
+                        "ref": "Pod/Use Twin Flank G Pod/Twin Flank G Pod"
+                    },
+                    {
+                        "name": "Pod - Use Umbrella Pod",
+                        "ref": "Pod/Use Umbrella Pod/Umbrella Pod"
+                    },
+                    {
+                        "name": "Pod - Use Throwing D Pod",
+                        "ref": "Pod/Use Throwing D Pod/Throwing D Pod"
+                    },
+                    {
+                        "name": "Pod - Use Throwing P Pod",
+                        "ref": "Pod/Use Throwing P Pod/Throwing P Pod"
+                    },
+                    {
+                        "name": "Pod - Use Double Wave Pod",
+                        "ref": "Pod/Use Double Wave Pod/Double Wave Pod"
+                    },
+                    {
+                        "name": "Pod - Use Titan Pod",
+                        "ref": "Pod/Use Titan Pod/Titan Pod"
+                    },
+                    {
+                        "name": "Pod - Use Can Pod",
+                        "ref": "Pod/Use Can Pod/Can Pod"
+                    },
+                    {
+                        "name": "Pod - Use Standard F Pod",
+                        "ref": "Pod/Use Standard F Pod/Standard F Pod"
+                    },
+                    {
+                        "name": "Pod - Use Caboose X Pod",
+                        "ref": "Pod/Use Caboose X Pod/Caboose X Pod"
+                    },
+                    {
+                        "name": "Pod - Use Cheetah Pod",
+                        "ref": "Pod/Use Cheetah Pod/Cheetah Pod"
+                    },
+                    {
+                        "name": "Pod - Use Wolf Spider Pod",
+                        "ref": "Pod/Use Wolf Spider Pod/Wolf Spider Pod"
+                    },
+                    {
+                        "name": "Pod - Use Orca Pod",
+                        "ref": "Pod/Use Orca Pod/Orca Pod"
+                    },
+                    {
+                        "name": "Pod - Use Penumbra I Pod",
+                        "ref": "Pod/Use Penumbra I Pod/Penumbra I Pod"
+                    },
+                    {
+                        "name": "Pod - Use Penumbra II Pod",
+                        "ref": "Pod/Use Penumbra II Pod/Penumbra II Pod"
+                    },
+                    {
+                        "name": "Pod - Use Penumbra III Pod",
+                        "ref": "Pod/Use Penumbra III Pod/Penumbra III Pod"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Summary",
+                        "x": 525,
+                        "y": 285
+                    }
+                ]
+            },
+            {
+                "name": "Robo",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Robo - Use Ray 01",
+                        "ref": "Robo/Use Ray 01/Ray 01"
+                    },
+                    {
+                        "name": "Robo - Use Splendor",
+                        "ref": "Robo/Use Splendor/Splendor"
+                    },
+                    {
+                        "name": "Robo - Use Glory",
+                        "ref": "Robo/Use Glory/Glory"
+                    },
+                    {
+                        "name": "Robo - Use Milky Way",
+                        "ref": "Robo/Use Milky Way/Milky Way"
+                    },
+                    {
+                        "name": "Robo - Use Earth",
+                        "ref": "Robo/Use Earth/Earth"
+                    },
+                    {
+                        "name": "Robo - Use Sol",
+                        "ref": "Robo/Use Sol/Sol"
+                    },
+                    {
+                        "name": "Robo - Use Metal Ape",
+                        "ref": "Robo/Use Metal Ape/Metal Ape"
+                    },
+                    {
+                        "name": "Robo - Use Metal Bear",
+                        "ref": "Robo/Use Metal Bear/Metal Bear"
+                    },
+                    {
+                        "name": "Robo - Use Metal Ox",
+                        "ref": "Robo/Use Metal Ox/Metal Ox"
+                    },
+                    {
+                        "name": "Robo - Use Swift",
+                        "ref": "Robo/Use Swift/Swift"
+                    },
+                    {
+                        "name": "Robo - Use Shrike",
+                        "ref": "Robo/Use Shrike/Shrike"
+                    },
+                    {
+                        "name": "Robo - Use Peregrine",
+                        "ref": "Robo/Use Peregrine/Peregrine"
+                    },
+                    {
+                        "name": "Robo - Use Javelin",
+                        "ref": "Robo/Use Javelin/Javelin"
+                    },
+                    {
+                        "name": "Robo - Use Glaive",
+                        "ref": "Robo/Use Glaive/Glaive"
+                    },
+                    {
+                        "name": "Robo - Use Halberd",
+                        "ref": "Robo/Use Halberd/Halberd"
+                    },
+                    {
+                        "name": "Robo - Use Criminal",
+                        "ref": "Robo/Use Criminal/Criminal"
+                    },
+                    {
+                        "name": "Robo - Use Buggy",
+                        "ref": "Robo/Use Buggy/Buggy"
+                    },
+                    {
+                        "name": "Robo - Use Juggler",
+                        "ref": "Robo/Use Juggler/Juggler"
+                    },
+                    {
+                        "name": "Robo - Use Defender",
+                        "ref": "Robo/Use Defender/Defender"
+                    },
+                    {
+                        "name": "Robo - Use Seeker",
+                        "ref": "Robo/Use Seeker/Seeker"
+                    },
+                    {
+                        "name": "Robo - Use Breaker",
+                        "ref": "Robo/Use Breaker/Breaker"
+                    },
+                    {
+                        "name": "Robo - Use Seal Head",
+                        "ref": "Robo/Use Seal Head/Seal Head"
+                    },
+                    {
+                        "name": "Robo - Use Dour Head",
+                        "ref": "Robo/Use Dour Head/Dour Head"
+                    },
+                    {
+                        "name": "Robo - Use Tank Head",
+                        "ref": "Robo/Use Tank Head/Tank Head"
+                    },
+                    {
+                        "name": "Robo - Use Ray Legend",
+                        "ref": "Robo/Use Ray Legend/Ray Legend"
+                    },
+                    {
+                        "name": "Robo - Use Oil Can",
+                        "ref": "Robo/Use Oil Can/Oil Can"
+                    },
+                    {
+                        "name": "Robo - Use Ray Warrior",
+                        "ref": "Robo/Use Ray Warrior/Ray Warrior"
+                    },
+                    {
+                        "name": "Robo - Use Rakansen",
+                        "ref": "Robo/Use Rakansen/Rakansen"
+                    },
+                    {
+                        "name": "Robo - Use Ruhiel",
+                        "ref": "Robo/Use Ruhiel/Ruhiel"
+                    },
+                    {
+                        "name": "Robo - Use Athena",
+                        "ref": "Robo/Use Athena/Athena"
+                    },
+                    {
+                        "name": "Robo - Use Rahu I",
+                        "ref": "Robo/Use Rahu I/Rahu I"
+                    },
+                    {
+                        "name": "Robo - Use Rahu II",
+                        "ref": "Robo/Use Rahu II/Rahu II"
+                    },
+                    {
+                        "name": "Robo - Use Rahu III",
+                        "ref": "Robo/Use Rahu III/Rahu III"
+                    },
+                    {
+                        "name": "Robo - Use Chickenheart",
+                        "ref": "Robo/Use Chickenheart/Chickenheart"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Summary",
+                        "x": 81,
+                        "y": 285
+                    }
+                ]
+            }
+        ]
+    }
+]

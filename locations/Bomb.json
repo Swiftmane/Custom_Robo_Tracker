@@ -1,0 +1,710 @@
+[
+    {
+        "name": "Bomb",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Use Standard Bomb",
+                "access_rules": ["standardbomb"],
+                "sections": [
+                    {
+                        "name": "Standard Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 170,
+                        "y": 28
+                    }
+                ]
+            },
+            {
+                "name": "Use Standard F Bomb",
+                "access_rules": ["standardfbomb"],
+                "sections": [
+                    {
+                        "name": "Standard F Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 170,
+                        "y": 58
+                    }
+                ]
+            },
+            {
+                "name": "Use Standard S Bomb",
+                "access_rules": ["standardsbomb"],
+                "sections": [
+                    {
+                        "name": "Standard S Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 170,
+                        "y": 88
+                    }
+                ]
+            },
+            {
+                "name": "Use Wave Bomb",
+                "access_rules": ["wavebomb"],
+                "sections": [
+                    {
+                        "name": "Wave Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 170,
+                        "y": 116
+                    }
+                ]
+            },
+            {
+                "name": "Use Straight G Bomb",
+                "access_rules": ["straightgbomb"],
+                "sections": [
+                    {
+                        "name": "Straight G Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 385,
+                        "y": 28
+                    }
+                ]
+            },
+            {
+                "name": "Use Straight S Bomb",
+                "access_rules": ["straightsbomb"],
+                "sections": [
+                    {
+                        "name": "Straight S Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 385,
+                        "y": 58
+                    }
+                ]
+            },
+            {
+                "name": "Use Straight T Bomb",
+                "access_rules": ["straighttbomb"],
+                "sections": [
+                    {
+                        "name": "Straight T Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 385,
+                        "y": 88
+                    }
+                ]
+            },
+            {
+                "name": "Use Right Flank H Bomb",
+                "access_rules": ["rightflankhbomb"],
+                "sections": [
+                    {
+                        "name": "Right Flank H Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 385,
+                        "y": 116
+                    }
+                ]
+            },
+            {
+                "name": "Use Left Flank H Bomb",
+                "access_rules": ["leftflankhbomb"],
+                "sections": [
+                    {
+                        "name": "Left Flank H Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 598,
+                        "y": 28
+                    }
+                ]
+            },
+            {
+                "name": "Use Right Wave Bomb",
+                "access_rules": ["rightwavebomb"],
+                "sections": [
+                    {
+                        "name": "Right Wave Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 598,
+                        "y": 58
+                    }
+                ]
+            },
+            {
+                "name": "Use Left Wave Bomb",
+                "access_rules": ["leftwavebomb"],
+                "sections": [
+                    {
+                        "name": "Left Wave Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 598,
+                        "y": 88
+                    }
+                ]
+            },
+            {
+                "name": "Use Burrow D Bomb",
+                "access_rules": ["burrowdbomb"],
+                "sections": [
+                    {
+                        "name": "Burrow D Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 598,
+                        "y": 116
+                    }
+                ]
+            },
+            {
+                "name": "Use Burrow P Bomb",
+                "access_rules": ["burrowpbomb"],
+                "sections": [
+                    {
+                        "name": "Burrow P Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 813,
+                        "y": 28
+                    }
+                ]
+            },
+            {
+                "name": "Use Freeze Bomb",
+                "access_rules": ["freezebomb"],
+                "sections": [
+                    {
+                        "name": "Freeze Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 813,
+                        "y": 58
+                    }
+                ]
+            },
+            {
+                "name": "Use Tomahawk B Bomb",
+                "access_rules": ["tomahawkbbomb"],
+                "sections": [
+                    {
+                        "name": "Tomahawk B Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 813,
+                        "y": 88
+                    }
+                ]
+            },
+            {
+                "name": "Use Tomahawk G Bomb",
+                "access_rules": ["tomahawkgbomb"],
+                "sections": [
+                    {
+                        "name": "Tomahawk G Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 813,
+                        "y": 116
+                    }
+                ]
+            },
+            {
+                "name": "Use Gemini B Bomb",
+                "access_rules": ["geminibbomb"],
+                "sections": [
+                    {
+                        "name": "Gemini B Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 170,
+                        "y": 178
+                    }
+                ]
+            },
+            {
+                "name": "Use Gemini P Bomb",
+                "access_rules": ["geminipbomb"],
+                "sections": [
+                    {
+                        "name": "Gemini P Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 170,
+                        "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Use Submarine D Bomb",
+                "access_rules": ["submarinedbomb"],
+                "sections": [
+                    {
+                        "name": "Submarine D Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 170,
+                        "y": 238
+                    }
+                ]
+            },
+            {
+                "name": "Use Submarine P Bomb",
+                "access_rules": ["submarinepbomb"],
+                "sections": [
+                    {
+                        "name": "Submarine P Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 170,
+                        "y": 266
+                    }
+                ]
+            },
+            {
+                "name": "Use Crescent P Bomb",
+                "access_rules": ["crescentpbomb"],
+                "sections": [
+                    {
+                        "name": "Crescent P Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 385,
+                        "y": 178
+                    }
+                ]
+            },
+            {
+                "name": "Use Crescent C Bomb",
+                "access_rules": ["crescentcbomb"],
+                "sections": [
+                    {
+                        "name": "Crescent C Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 385,
+                        "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Use Dual Bomb",
+                "access_rules": ["dualbomb"],
+                "sections": [
+                    {
+                        "name": "Dual Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 385,
+                        "y": 238
+                    }
+                ]
+            },
+            {
+                "name": "Use Dual C Bomb",
+                "access_rules": ["dualcbomb"],
+                "sections": [
+                    {
+                        "name": "Dual C Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 385,
+                        "y": 266
+                    }
+                ]
+            },
+            {
+                "name": "Use Acrobat Bomb",
+                "access_rules": ["acrobatbomb"],
+                "sections": [
+                    {
+                        "name": "Acrobat Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 598,
+                        "y": 178
+                    }
+                ]
+            },
+            {
+                "name": "Use Delta Bomb",
+                "access_rules": ["deltabomb"],
+                "sections": [
+                    {
+                        "name": "Delta Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 598,
+                        "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Use Wall Bomb",
+                "access_rules": ["wallbomb"],
+                "sections": [
+                    {
+                        "name": "Wall Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 598,
+                        "y": 238
+                    }
+                ]
+            },
+            {
+                "name": "Use Smash Bomb",
+                "access_rules": ["smashbomb"],
+                "sections": [
+                    {
+                        "name": "Smash Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 598,
+                        "y": 266
+                    }
+                ]
+            },
+            {
+                "name": "Use Double Mine Bomb",
+                "access_rules": ["doubleminebomb"],
+                "sections": [
+                    {
+                        "name": "Double Mine Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 813,
+                        "y": 178
+                    }
+                ]
+            },
+            {
+                "name": "Use Geo Trap Bomb",
+                "access_rules": ["geotrapbomb"],
+                "sections": [
+                    {
+                        "name": "Geo Trap Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 813,
+                        "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Use Titan Bomb",
+                "access_rules": ["titanbomb"],
+                "sections": [
+                    {
+                        "name": "Titan Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 813,
+                        "y": 238
+                    }
+                ]
+            },
+            {
+                "name": "Use Can Bomb",
+                "access_rules": ["canbomb"],
+                "sections": [
+                    {
+                        "name": "Can Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 813,
+                        "y": 266
+                    }
+                ]
+            },
+            {
+                "name": "Use Standard K Bomb",
+                "access_rules": ["standardkbomb"],
+                "sections": [
+                    {
+                        "name": "Standard K Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 170,
+                        "y": 328
+                    }
+                ]
+            },
+            {
+                "name": "Use Submarine K Bomb",
+                "access_rules": ["submarinekbomb"],
+                "sections": [
+                    {
+                        "name": "Submarine K Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 170,
+                        "y": 358
+                    }
+                ]
+            },
+            {
+                "name": "Use Crescent K Bomb",
+                "access_rules": ["crescentkbomb"],
+                "sections": [
+                    {
+                        "name": "Crescent K Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 170,
+                        "y": 388
+                    }
+                ]
+            },
+            {
+                "name": "Use Standard X Bomb",
+                "access_rules": ["standardxbomb"],
+                "sections": [
+                    {
+                        "name": "Standard X Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 170,
+                        "y": 417
+                    }
+                ]
+            },
+            {
+                "name": "Use Treble Bomb",
+                "access_rules": ["treblebomb"],
+                "sections": [
+                    {
+                        "name": "Treble Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 385,
+                        "y": 328
+                    }
+                ]
+            },
+            {
+                "name": "Use Wyvern Bomb",
+                "access_rules": ["wyvernbomb"],
+                "sections": [
+                    {
+                        "name": "Wyvern Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 385,
+                        "y": 358
+                    }
+                ]
+            },
+            {
+                "name": "Use Waxing Arc Bomb",
+                "access_rules": ["waxingarcbomb"],
+                "sections": [
+                    {
+                        "name": "Waxing Arc Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 385,
+                        "y": 388
+                    }
+                ]
+            },
+            {
+                "name": "Use Waning Arc Bomb",
+                "access_rules": ["waningarcbomb"],
+                "sections": [
+                    {
+                        "name": "Waning Arc Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 385,
+                        "y": 417
+                    }
+                ]
+            },
+            {
+                "name": "Use Grand Cross Bomb",
+                "access_rules": ["rahuevolution:7"],
+                "sections": [
+                    {
+                        "name": "Grand Cross Bomb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bombs",
+                        "x": 598,
+                        "y": 328
+                    }
+                ]
+            }
+        ]
+    }
+]

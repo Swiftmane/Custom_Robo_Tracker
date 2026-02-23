@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Chapter 7",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "@Chapter 6,chapter6memories"
+        ],
+        "sections": [
+            {
+                "name": "VS Z Lackey #1",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "VS Z Lackey #2",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "VS Z Lackey #3",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "VS Eliza",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Chapter 7",
+                "x": 1376,
+                "y": 429,
+                "size": 6
+            }
+        ]
+    }
+]

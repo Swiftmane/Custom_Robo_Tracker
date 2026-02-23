@@ -1,0 +1,897 @@
+[
+    {
+        "name": "Gun",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Use Basic Gun",
+                "access_rules": ["basicgun"],
+                "sections": [
+                    {
+                        "name": "Basic Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 178,
+                        "y": 29
+                    }
+                ]
+            },
+            {
+                "name": "Use 3-Way Gun",
+                "access_rules": ["3-waygun"],
+                "sections": [
+                    {
+                        "name": "3-Way Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 178,
+                        "y": 60
+                    }
+                ]
+            },
+            {
+                "name": "Use Gatling Gun",
+                "access_rules": ["gatlinggun"],
+                "sections": [
+                    {
+                        "name": "Gatling Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 178,
+                        "y": 91
+                    }
+                ]
+            },
+            {
+                "name": "Use Vertical Gun",
+                "access_rules": ["verticalgun"],
+                "sections": [
+                    {
+                        "name": "Vertical Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 178,
+                        "y": 118
+                    }
+                ]
+            },
+            {
+                "name": "Use Sniper Gun",
+                "access_rules": ["snipergun"],
+                "sections": [
+                    {
+                        "name": "Sniper Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 392,
+                        "y": 29
+                    }
+                ]
+            },
+            {
+                "name": "Use Stun Gun",
+                "access_rules": ["stungun"],
+                "sections": [
+                    {
+                        "name": "Stun Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 392,
+                        "y": 60
+                    }
+                ]
+            },
+            {
+                "name": "Use Hornet Gun",
+                "access_rules": ["hornetgun"],
+                "sections": [
+                    {
+                        "name": "Hornet Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 392,
+                        "y": 91
+                    }
+                ]
+            },
+            {
+                "name": "Use Flame Gun",
+                "access_rules": ["flamegun"],
+                "sections": [
+                    {
+                        "name": "Flame Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 392,
+                        "y": 118
+                    }
+                ]
+            },
+            {
+                "name": "Use Dragon Gun",
+                "access_rules": ["dragongun"],
+                "sections": [
+                    {
+                        "name": "Dragon Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 607,
+                        "y": 29
+                    }
+                ]
+            },
+            {
+                "name": "Use Splash Gun",
+                "access_rules": ["splashgun"],
+                "sections": [
+                    {
+                        "name": "Splash Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 607,
+                        "y": 60
+                    }
+                ]
+            },
+            {
+                "name": "Use Left Arc Gun",
+                "access_rules": ["leftarcgun"],
+                "sections": [
+                    {
+                        "name": "Left Arc Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 607,
+                        "y": 91
+                    }
+                ]
+            },
+            {
+                "name": "Use Right Arc Gun",
+                "access_rules": ["rightarcgun"],
+                "sections": [
+                    {
+                        "name": "Right Arc Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 607,
+                        "y": 118
+                    }
+                ]
+            },
+            {
+                "name": "Use Shotgun Gun",
+                "access_rules": ["shotgungun"],
+                "sections": [
+                    {
+                        "name": "Shotgun Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 820,
+                        "y": 29
+                    }
+                ]
+            },
+            {
+                "name": "Use Rayfall Gun",
+                "access_rules": ["rayfallgun"],
+                "sections": [
+                    {
+                        "name": "Rayfall Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 820,
+                        "y": 60
+                    }
+                ]
+            },
+            {
+                "name": "Use Bubble Gun",
+                "access_rules": ["bubblegun"],
+                "sections": [
+                    {
+                        "name": "Bubble Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 820,
+                        "y": 91
+                    }
+                ]
+            },
+            {
+                "name": "Use Eagle Gun",
+                "access_rules": ["eaglegun"],
+                "sections": [
+                    {
+                        "name": "Eagle Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 820,
+                        "y": 118
+                    }
+                ]
+            },
+            {
+                "name": "Use V Laser Gun",
+                "access_rules": ["lasergun"],
+                "sections": [
+                    {
+                        "name": "V Laser Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 178,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Use Magnum Gun",
+                "access_rules": ["magnumgun"],
+                "sections": [
+                    {
+                        "name": "Magnum Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 178,
+                        "y": 211
+                    }
+                ]
+            },
+            {
+                "name": "Use Needle Gun",
+                "access_rules": ["needlegun"],
+                "sections": [
+                    {
+                        "name": "Needle Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 178,
+                        "y": 241
+                    }
+                ]
+            },
+            {
+                "name": "Use Starshot Gun",
+                "access_rules": ["starshotgun"],
+                "sections": [
+                    {
+                        "name": "Starshot Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 178,
+                        "y": 270
+                    }
+                ]
+            },
+            {
+                "name": "Use Glider Gun",
+                "access_rules": ["glidergun"],
+                "sections": [
+                    {
+                        "name": "Glider Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 392,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Use Homing Star Gun",
+                "access_rules": ["homingstargun"],
+                "sections": [
+                    {
+                        "name": "Homing Star Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 392,
+                        "y": 211
+                    }
+                ]
+            },
+            {
+                "name": "Use Trap Gun",
+                "access_rules": ["trapgun"],
+                "sections": [
+                    {
+                        "name": "Trap Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 392,
+                        "y": 241
+                    }
+                ]
+            },
+            {
+                "name": "Use Drill Gun",
+                "access_rules": ["drillgun"],
+                "sections": [
+                    {
+                        "name": "Drill Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 392,
+                        "y": 270
+                    }
+                ]
+            },
+            {
+                "name": "Use Titan Gun",
+                "access_rules": ["titangun"],
+                "sections": [
+                    {
+                        "name": "Titan Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 607,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Use Claw Gun",
+                "access_rules": ["clawgun"],
+                "sections": [
+                    {
+                        "name": "Claw Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 607,
+                        "y": 211
+                    }
+                ]
+            },
+            {
+                "name": "Use Knuckle Gun",
+                "access_rules": ["knucklegun"],
+                "sections": [
+                    {
+                        "name": "Knuckle Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 607,
+                        "y": 241
+                    }
+                ]
+            },
+            {
+                "name": "Use Afterburner Gun",
+                "access_rules": ["afterburnergun"],
+                "sections": [
+                    {
+                        "name": "Afterburner Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 607,
+                        "y": 270
+                    }
+                ]
+            },
+            {
+                "name": "Use Blade Gun",
+                "access_rules": ["bladegun"],
+                "sections": [
+                    {
+                        "name": "Blade Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 820,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Use Meteor Storm Gun",
+                "access_rules": ["meteorstormgun"],
+                "sections": [
+                    {
+                        "name": "Meteor Storm Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 820,
+                        "y": 211
+                    }
+                ]
+            },
+            {
+                "name": "Use Twin Fang Gun",
+                "access_rules": ["twinfanggun"],
+                "sections": [
+                    {
+                        "name": "Twin Fang Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 820,
+                        "y": 241
+                    }
+                ]
+            },
+            {
+                "name": "Use Gravity Gun",
+                "access_rules": ["gravitygun"],
+                "sections": [
+                    {
+                        "name": "Gravity Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 820,
+                        "y": 270
+                    }
+                ]
+            },
+            {
+                "name": "Use Phoenix Gun",
+                "access_rules": ["phoenixgun"],
+                "sections": [
+                    {
+                        "name": "Phoenix Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 1035,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Use Can Gun",
+                "access_rules": ["cangun"],
+                "sections": [
+                    {
+                        "name": "Can Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 1035,
+                        "y": 211
+                    }
+                ]
+            },
+            {
+                "name": "Use Left Pulse Gun",
+                "access_rules": ["leftpulsegun"],
+                "sections": [
+                    {
+                        "name": "Left Pulse Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 1035,
+                        "y": 241
+                    }
+                ]
+            },
+            {
+                "name": "Use Right Pulse Gun",
+                "access_rules": ["rightpulsegun"],
+                "sections": [
+                    {
+                        "name": "Right Pulse Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 1035,
+                        "y": 270
+                    }
+                ]
+            },
+            {
+                "name": "Use Sword Storm Gun",
+                "access_rules": ["swordstormgun"],
+                "sections": [
+                    {
+                        "name": "Sword Storm Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 178,
+                        "y": 332
+                    }
+                ]
+            },
+            {
+                "name": "Use Ion Gun",
+                "access_rules": ["iongun"],
+                "sections": [
+                    {
+                        "name": "Ion Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 178,
+                        "y": 361
+                    }
+                ]
+            },
+            {
+                "name": "Use Flare Gun",
+                "access_rules": ["flaregun"],
+                "sections": [
+                    {
+                        "name": "Flare Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 178,
+                        "y": 391
+                    }
+                ]
+            },
+            {
+                "name": "Use Left 5-Way Gun",
+                "access_rules": ["left5-waygun"],
+                "sections": [
+                    {
+                        "name": "Left 5-Way Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 178,
+                        "y": 420
+                    }
+                ]
+            },
+            {
+                "name": "Use Right 5-Way Gun",
+                "access_rules": ["right5-waygun"],
+                "sections": [
+                    {
+                        "name": "Right 5-Way Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 392,
+                        "y": 332
+                    }
+                ]
+            },
+            {
+                "name": "Use Halo Gun",
+                "access_rules": ["halogun"],
+                "sections": [
+                    {
+                        "name": "Halo Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 392,
+                        "y": 361
+                    }
+                ]
+            },
+            {
+                "name": "Use Wave Laser Gun",
+                "access_rules": ["wavelasergun"],
+                "sections": [
+                    {
+                        "name": "Wave Laser Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 392,
+                        "y": 391
+                    }
+                ]
+            },
+            {
+                "name": "Use X Laser Gun",
+                "access_rules": ["xlasergun"],
+                "sections": [
+                    {
+                        "name": "X Laser Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 392,
+                        "y": 420
+                    }
+                ]
+            },
+            {
+                "name": "Use Crystal Strike Gun",
+                "access_rules": ["crystalstrikegun"],
+                "sections": [
+                    {
+                        "name": "Crystal Strike Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 607,
+                        "y": 332
+                    }
+                ]
+            },
+            {
+                "name": "Use Wyrm Gun",
+                "access_rules": ["wyrmgun"],
+                "sections": [
+                    {
+                        "name": "Wyrm Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 607,
+                        "y": 361
+                    }
+                ]
+            },
+            {
+                "name": "Use Raptor Gun",
+                "access_rules": ["raptorgun"],
+                "sections": [
+                    {
+                        "name": "Raptor Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 607,
+                        "y": 391
+                    }
+                ]
+            },
+            {
+                "name": "Use Waxing Arc Gun",
+                "access_rules": ["waxingarcgun"],
+                "sections": [
+                    {
+                        "name": "Waxing Arc Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 607,
+                        "y": 420
+                    }
+                ]
+            },
+            {
+                "name": "Use Waning Arc Gun",
+                "access_rules": ["waningarcgun"],
+                "sections": [
+                    {
+                        "name": "Waning Arc Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 820,
+                        "y": 332
+                    }
+                ]
+            },
+            {
+                "name": "Use Rahu I Gun",
+                "access_rules": ["rahuevolution:3"],
+                "sections": [
+                    {
+                        "name": "Rahu I Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 820,
+                        "y": 361
+                    }
+                ]
+            },
+            {
+                "name": "Use Rahu II Gun",
+                "access_rules": ["rahuevolution:6"],
+                "sections": [
+                    {
+                        "name": "Rahu II Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 820,
+                        "y": 391
+                    }
+                ]
+            },
+            {
+                "name": "Use Rahu III Gun",
+                "access_rules": ["rahuevolution:10"],
+                "sections": [
+                    {
+                        "name": "Rahu III Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Guns",
+                        "x": 820,
+                        "y": 420
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Chapter 6",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "@Chapter 5,chapter5memories"
+        ],
+        "sections": [
+            {
+                "name": "VS Will",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "VS Don",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "VS Mary",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "VS Evil",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "VS Marcia",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Chapter 6",
+                "x": 1788,
+                "y": 1020,
+                "size": 6
+            }
+        ]
+    }
+]
