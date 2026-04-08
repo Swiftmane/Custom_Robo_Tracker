@@ -1,6 +1,6 @@
-# Poptracker pack for Risk of Rain 2
+# Poptracker pack for Custom Robo
 
-A poptracker pack for usage with the Risk of Rain 2 Archipelago Randomizer.
+A poptracker pack for usage with the Custom Robo Archipelago Randomizer.
 
 ## Installation
 
