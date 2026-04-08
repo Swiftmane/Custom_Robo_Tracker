@@ -1,20 +1,20 @@
 {
     "versions": [
         {
-            "package_version": "0.0.1",
-            "download_url": "https://github.com/Swiftmane/Custom_Robo_Tracker/releases/download/v0.1/Custom_Robo_Tracker.zip",
-            "sha256": "64cfd95bd58c819cee6940fa101c43391794f72445bd81f73324757a93d2bffa",
-            "changelog": [
-                "Initial Release"
-            ]
-        },
-        {
             "package_version": "0.2",
             "download_url": "https://github.com/Swiftmane/Custom_Robo_Tracker/releases/download/v0.2/Custom_Robo_Tracker.zip",
             "sha256": "6ff9758ebf2ce4900336993ef7bd25748af9cf7933a4a184f5ade9bf82ff8771",
             "changelog": [
                 "Fix auto update",
                 "Fix readme"
+            ]
+        },
+        {
+            "package_version": "0.0.1",
+            "download_url": "https://github.com/Swiftmane/Custom_Robo_Tracker/releases/download/v0.1/Custom_Robo_Tracker.zip",
+            "sha256": "64cfd95bd58c819cee6940fa101c43391794f72445bd81f73324757a93d2bffa",
+            "changelog": [
+                "Initial Release"
             ]
         }
     ]
