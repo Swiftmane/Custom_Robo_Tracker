@@ -193,7 +193,7 @@
     },
     {
         "name": "rahuevolution",
-        "type": "toggle",
+        "type": "consumable",
         "img": "images/items/rahuevolution.png",
         "initial_active_state": false,
         "overlay_align": "right",
