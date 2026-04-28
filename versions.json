@@ -1,6 +1,15 @@
 {
     "versions": [
         {
+            "package_version":"0.2.2",
+            "download_url":"https://github.com/Swiftmane/Custom_Robo_Tracker/archive/refs/tags/v0.2.2.zip",
+            "sha256":"dd7380d7158efbede32e7c30fb08b20772321c5430da78d983bbed926fa3cea8",
+            "changelog":[
+                "Fixed typo in V Laser Gun requirements",
+                "Hint highlights now clear when connecting to new slot"
+            ]
+        },
+        {
             "package_version": "0.2.1",
             "download_url":"https://github.com/Swiftmane/Custom_Robo_Tracker/releases/download/v0.2.1/Custom_Robo_Tracker.zip",
             "sha256":"458e0fe1da90cf7f3432a9037f9b61a1b3f1a0885887eb2115e1447b959d7337",
