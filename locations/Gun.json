@@ -282,7 +282,7 @@
             },
             {
                 "name": "Use V Laser Gun",
-                "access_rules": ["lasergun"],
+                "access_rules": ["vlasergun"],
                 "sections": [
                     {
                         "name": "V Laser Gun",

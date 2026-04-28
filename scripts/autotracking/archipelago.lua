@@ -192,6 +192,7 @@ function onClear(slot_data)
                             location_obj.AvailableChestCount = custom_storage_item.MANUAL_LOCATIONS[ROOM_SEED][location_obj.FullID]
                         else
                             location_obj.AvailableChestCount = location_obj.ChestCount
+                            location_obj.Highlight = Highlight.None
                         end
                     else
                         location_obj.Active = false
