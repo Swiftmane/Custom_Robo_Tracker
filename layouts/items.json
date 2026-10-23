@@ -19,20 +19,18 @@
                         "item_width": 144,
                         "rows": [
                             [
-                                "chapter1memories",
-                                "chapter2memories",
                                 "chapter3memories",
                                 "chapter4memories",
                                 "chapter5memories",
-                                "chapter6memories"
+                                "chapter6memories",
+                                "chapter7memories"
                             ],
                             [
-                                "chapter7memories",
                                 "chapter8memories",
                                 "chapter9memories",
                                 "chapter10memories",
                                 "chapter11memories",
-                                "chapter12memories"
+                                "dadswatch"
                             ]
                         ]
                     }

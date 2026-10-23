@@ -296,14 +296,6 @@
         "codes": "skyfreezepod"
     },
     {
-        "name": "chapter2memories",
-        "type": "toggle",
-        "img": "images/items/chapter2memories.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chapter2memories"
-    },
-    {
         "name": "waxingarcbomb",
         "type": "toggle",
         "img": "images/items/waxingarcbomb.png",
@@ -358,14 +350,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "tomahawkbbomb"
-    },
-    {
-        "name": "chapter1memories",
-        "type": "toggle",
-        "img": "images/items/chapter1memories.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chapter1memories"
     },
     {
         "name": "swallowlegs",
@@ -1117,14 +1101,6 @@
         "codes": "flaregun"
     },
     {
-        "name": "chapter12memories",
-        "type": "toggle",
-        "img": "images/items/chapter12memories.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chapter12memories"
-    },
-    {
         "name": "straighttbomb",
         "type": "toggle",
         "img": "images/items/straighttbomb.png",
@@ -1331,6 +1307,14 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "chapter10memories"
+    },
+    {
+        "name": "dadswatch",
+        "type": "toggle",
+        "img": "images/items/dadswatch.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dadswatch"
     },
     {
         "name": "twinflankfpod",
